@@ -1,6 +1,6 @@
 # Introduction to Statistics
 
-This webpage is designed to host all the resources for 2022 CAAP(Chicago Academic Achievement Program) Statistics. 
+This webpage is designed to host all the resources for 2022 [CAAP](https://college.uchicago.edu/student-services/chicago-academic-achievement-program) Statistics. 
 
 ## Course Description
 
