@@ -9,7 +9,7 @@ This course aims to introduce students to statistical methods and data analysis 
 * Does this commercial bring more customers to the store?
 
 And will be able to decompose these questions into accessible statistical hypotheses:
-* Is the difference in the proportion of having a clod “significant” between the experimental and control groups?
+* Is the difference in the proportion of having a cold “significant” between the experimental and control groups?
 * Does the number of customers visiting the store “significantly” improve after the commercial?
 
 
