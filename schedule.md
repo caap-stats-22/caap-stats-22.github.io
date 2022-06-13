@@ -17,7 +17,9 @@ Introduction to data
 ## Lec 02 - July 7th(Thu)
 
 Introduction to data
+
 Introduction to R
+* [R Studio Cheatsheets](https://www.rstudio.com/resources/cheatsheets/)
 
 [Lecture Note]()
 
