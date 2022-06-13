@@ -20,16 +20,14 @@ Introduction to data
 ### Course Material
 Introduction to R
 * [Install R](https://www.r-project.org/)
+
+
+### Reading
+* [R for Data Science](https://r4ds.had.co.nz/) **Recommended**
 * [R Studio Cheatsheets](https://www.rstudio.com/resources/cheatsheets/)
     * [Import Data](https://raw.githubusercontent.com/rstudio/cheatsheets/main/data-import.pdf)
     * [R Studio IDE](https://raw.githubusercontent.com/rstudio/cheatsheets/main/rstudio-ide.pdf)
     * [\LaTeX](https://wch.github.io/latexsheet/)
-
-[Lecture Note]()
-
-### Reading
-
-* []() **Recommended**
 
 ### Class Material
 
