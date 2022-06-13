@@ -55,6 +55,7 @@ example: coin tossing
 
 
 Normal Distribution
+
 **Quiz 1**
 
 ## Lec 11 - July 22nd(Fri)
