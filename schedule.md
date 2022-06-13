@@ -8,25 +8,30 @@ This course follows regular CAAP schedule.  There is a section for each day, wit
 Introduction to the course
 Introduction to data
 
+[Lecture Note]()
+
+### Reading
+
+* []() **Recommended**
+* 
 ## Lec 02 - July 7th(Thu)
 
 Introduction to data
 Introduction to R
 
-### Class Material
-
-[Lecture Video](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ee8e2b31-56b2-4fe3-b13f-ae1a0046d27f)
-
-0. [Functions in Python](https://caam37830.github.io/book/00_python/functions.html)
-1. [Asymptotic notation](https://caam37830.github.io/book/01_analysis/asymptotic_notation.html)
-2. [Decorators](https://caam37830.github.io/book/00_python/decorators.html)
-3. [Recursion](https://caam37830.github.io/book/01_analysis/recursion.html)
+[Lecture Note]()
 
 ### Reading
 
-* [Functions](https://docs.python.org/3/tutorial/controlflow.html#defining-functions) **Required**
-* [More on defining functions](https://docs.python.org/3/tutorial/controlflow.html#more-on-defining-functions) **Required**
-* [Function definitions](https://docs.python.org/3/reference/compound_stmts.html#function-definitions) **Recommended**
+* []() **Recommended**
+
+### Class Material
+
+[Lecture Note]()
+
+### Reading
+
+* []() **Recommended**
 
 ## Lec 03 - July 8th(Fri)
 Summarizing Data
