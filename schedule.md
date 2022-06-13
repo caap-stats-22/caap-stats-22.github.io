@@ -17,6 +17,7 @@ Introduction to data
 ## Lec 02 - July 7th(Thu)
 
 Introduction to data
+
 ### Course Material
 Introduction to R
 * [Install R](https://www.r-project.org/)
@@ -29,13 +30,6 @@ Introduction to R
     * [R Studio IDE](https://raw.githubusercontent.com/rstudio/cheatsheets/main/rstudio-ide.pdf)
     * [\LaTeX](https://wch.github.io/latexsheet/)
 
-### Class Material
-
-[Lecture Note]()
-
-### Reading
-
-* []() **Recommended**
 
 ## Lec 03 - July 8th(Fri)
 Summarizing Data
