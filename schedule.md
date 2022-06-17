@@ -6,11 +6,13 @@ This course follows regular CAAP schedule.  There is a section for each day, wit
 ## Lec 01 - July 5th(Tue)
 
 [Introduction to the course](notes/00.intro-to-course.md)
+
 [Introduction to data](notes/01.intro-to-data.md)
 
 ## Lec 02 - July 7th(Thu)
 
 [Introduction to data](notes/01.intro-to-data.md)
+
 [Introduction to R](notes/02.intro-to-R.md)
 
 
@@ -22,12 +24,16 @@ This course follows regular CAAP schedule.  There is a section for each day, wit
 
 ## Lec 05 - July 12th(Tue)
 [Probability](notes/04.probability.md)
+
 ## Lec 06 - July 14th(Thu)
 [Probability](notes/04.probability.md)
+
 ## Lec 07- July 15th(Fri)
 [Calculus Review - Univariate](notes/05.calculus-review.md)
+
 ## Lec 08 - July 18th(Mon)
 [Calculus Review - Multivariate](notes/05.calculus-review.md)
+
 ## Lec 09 - July 19th(Tue)
 [Distributions - Binomial Distribution](notes/06.distributions.md)
 
@@ -44,20 +50,28 @@ This course follows regular CAAP schedule.  There is a section for each day, wit
 
 ## Lec 13 - July 26th(Tue)
 [Inference on Numerical Data(mean)](notes/08.inference-on-num-data.md)
+
 ## Lec 14 - July 28th(Thu)
 [Inference on Numerical Data(proportion)](notes/08.inference-on-num-data.md)
+
 ## Lec 15 - July 29th(Fri)
 [Inference on Categorical Data](notes/09.inference-on-cat-data.md)
+
 ## Lec 16 - Aug 1st(Mon)
 [Inference on Categorical Data](notes/09.inference-on-cat-data.md)
+
 ## Lec 17 - Aug 2nd(Tue)
 [Introduction to Linear Regression](notes/10.linear-regression.md)
+
 ## Lec 18 - Aug 4th(Thu)
 [Linear Regression(Diagnostics)](notes/10.linear-regression.md)
+
 ## Lec 19 - Aug 5th(Fri)
 [Logistic Regression](notes/11.logistic-regression.md)
+
 ## Lec 20 - Aug 8th(Mon)
 [Logistic Regression](notes/11.logistic-regression.md)
+
 ## Review - Aug 9th(Tue)
 [Review](notes/review-for-all.md)
 
