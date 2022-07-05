@@ -13,7 +13,7 @@ This course follows regular CAAP schedule.  There is a section for each day, wit
 ## Lec 02 - July 7th(Thu)
 
 ### Course Material
-[Introduction to data](notes/01.intro-to-data.md)
+* [Introduction to data](notes/01.intro-to-data.md)
 
 ### Readings
 * **Hihgly recommended** Chapter 1 from OS 
@@ -25,7 +25,7 @@ This course follows regular CAAP schedule.  There is a section for each day, wit
 ## Lec 03 - July 8th(Fri)
 
 ### Course Material
-[Introduction to R](notes/02.intro-to-R.md)
+* [Introduction to R](notes/02.intro-to-R.md)
 
 ### Further Practice
 
@@ -44,7 +44,7 @@ This course follows regular CAAP schedule.  There is a section for each day, wit
 
 ## Lec 05 - July 12th(Tue)
 ### Course Material
-[R Markdown]()
+* [R Markdown]()
 
 ### Further Practice
 
@@ -52,7 +52,7 @@ This course follows regular CAAP schedule.  There is a section for each day, wit
 ## Lec 06 - July 14th(Thu)
 
 ### Course Material
-[Probability](notes/04.probability.md)
+* [Probability](notes/04.probability.md)
 
 ### Readings
 * **Highly Recommended** Chapter3 from OS
@@ -60,14 +60,14 @@ This course follows regular CAAP schedule.  There is a section for each day, wit
 ## Lec 07- July 15th(Fri)
 
 ### Course Material
-[Importing Data]()
+* [Importing Data]()
 
 ### Further Practice
 
 ## Lec 08 - July 18th(Mon)
 
 ### Course Material
-[Distributions](notes/06.distributions.md)
+* [Distributions](notes/06.distributions.md)
 
 ### Readings
 * **Highly Recommended** Chapter4 from OS
@@ -99,14 +99,14 @@ This course follows regular CAAP schedule.  There is a section for each day, wit
 
 ## Lec 13 - July 26th(Tue)
 ### Course Material
-[Inference on Numerical Data](notes/08.inference-on-num-data.md)
+* [Inference on Numerical Data](notes/08.inference-on-num-data.md)
 
 ### Readings
 * **Highly Recommended** Chapter7 from OS
 
 ## Lec 14 - July 28th(Thu)
-[Hypothesis Testing]()
-[Project Guidance-1]()
+* [Hypothesis Testing]()
+* [Project Guidance-1]()
 
 ### Further Practice
 
@@ -118,8 +118,8 @@ This course follows regular CAAP schedule.  There is a section for each day, wit
 * **Highly Recommended** Chapter6 from OS
 
 ## Lec 16 - Aug 1st(Mon)
-[Hypothesis Testing]()
-[Project Guidance-2]()
+* [Hypothesis Testing]()
+* [Project Guidance-2]()
 
 ### Further Practice
 
@@ -135,8 +135,8 @@ This course follows regular CAAP schedule.  There is a section for each day, wit
 
 
 ## Lec 18 - Aug 4th(Thu)
-[Modeling and Linear Regression]()
-[Project Guidance-3]()
+* [Modeling and Linear Regression]()
+* [Project Guidance-3]()
 
 ### Further Practice
 * **Highly Recommended** [Interpret `lm` output from R](https://feliperego.github.io/blog/2015/10/23/Interpreting-Model-Output-In-R) by Filipe Rego
@@ -144,15 +144,15 @@ This course follows regular CAAP schedule.  There is a section for each day, wit
 
 ## Lec 19 - Aug 5th(Fri)
 ### Course Material
-[Linear Reression]
-[Project Guidance-4]()
+* [Linear Reression]
+* [Project Guidance-4]()
 
 ## Lec 20 - Aug 8th(Mon)
 
 **Presentation Day**
 
 ## Review - Aug 9th(Tue)
-[Review](notes/review-for-all.md)
+* [Review](notes/review-for-all.md)
 
 ## Finals Period
 
