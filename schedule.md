@@ -21,7 +21,7 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
 * [Experimental Studies](https://docs.google.com/presentation/d/1qcvXDm0uhUiT9E8KI1c49NjYdIoaLenx9P3NvpTN2L0/edit#slide=id.g5e3f5452cb_0_0)
 
 ### Readings
-* **Hihgly recommended** Chapter 1 with emphasis on *Guided Practice 1.4*, *Sec1.2.2.*Types of variables, *Sec 1.3.3.*Sampling from a population, *Sec 1.4.1.*Principles of experimental design
+* **Hihgly recommended** Chapter 1 with emphasis on *Guided Practice 1.4*, *Sec1.2.2*.Types of variables, *Sec 1.3.3*.Sampling from a population, *Sec 1.4.1*.Principles of experimental design
 * **Recommended** [Variable Types](https://pubs.wsb.wisc.edu/academics/analytics-using-r-2019/variable-types.html) in Analytics Using R 
 * **Recommended** [Video: Experimental Design](https://www.youtube.com/watch?v=xDWdJI_XT3k) by PSYCH EXPLAINED
 * **Advanced** [Overview of Sampling](https://en.wikipedia.org/wiki/Sampling_(statistics)) in Wikipedia
@@ -45,9 +45,12 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
 ## Lec 04 - July 11th(Mon)
 ### Course Material
 [Summarizing Data](notes/03.summarizing-data.md)
+[Example - Gender Discrimination](https://docs.google.com/presentation/d/1aUUXmZhZXSnvbDlI8eA-QtqhTzgQlwqtY4l9aE2CGXA/edit#slide=id.ge4a04296_024) from [OpenIntroStat](openintro.org/os)
 
 ### Readings
 * **Highly Recommended** Chapter2 from OS
+* **Recommended** [Graphical Summaries](http://dept.stat.lsa.umich.edu/~kshedden/introds/topics/graphical_summaries/) in Introduction to Data Science
+* **Recommended** [Describing Data](https://byuistats.github.io/Statistics-Notebook/index.html) in Statistics Notebook
 
 ## Lec 05 - July 12th(Tue)
 ### Course Material
