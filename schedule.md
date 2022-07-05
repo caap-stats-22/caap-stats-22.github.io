@@ -18,8 +18,8 @@ This course follows regular CAAP schedule.  There is a section for each day, wit
 ### Readings
 * **Hihgly recommended** Chapter 1 from OS 
 * **Recommended** [Varialbe Types](https://pubs.wsb.wisc.edu/academics/analytics-using-r-2019/variable-types.html) in Analytics Using R 
-* **Advanced**[Overview of Sampling](https://en.wikipedia.org/wiki/Sampling_(statistics)) in Wikipedia
-* **Advanced**[Practical Machine Learning Perspective on Sampling](https://machinelearningmastery.com/statistical-sampling-and-resampling/)
+* **Advanced** [Overview of Sampling](https://en.wikipedia.org/wiki/Sampling_(statistics)) in Wikipedia
+* **Advanced** [Practical Machine Learning Perspective on Sampling](https://machinelearningmastery.com/statistical-sampling-and-resampling/)
 
 
 ## Lec 03 - July 8th(Fri)
@@ -29,6 +29,11 @@ This course follows regular CAAP schedule.  There is a section for each day, wit
 
 ### Further Practice
 
+### Resources
+* [An Introduction to R](https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf)
+* [Introduction to R](https://stats.oarc.ucla.edu/stat/data/intro_r/intro_r_interactive_flat.html) by IDRE Statistical Consulting Group
+* [R For Data Science](https://r4ds.had.co.nz/) by Hadley Wickham
+* [R Packages](https://r-pkgs.org/) by Hadley Wickham and Jenny Bryan
 
 ## Lec 04 - July 11th(Mon)
 ### Course Material
