@@ -17,7 +17,7 @@ This course follows regular CAAP schedule.  There is a section for each day, wit
 
 ### Readings
 * **Hihgly recommended** Chapter 1 from OS 
-* **Recommended** [Varialbe Types](https://pubs.wsb.wisc.edu/academics/analytics-using-r-2019/variable-types.html) in Analytics Using R 
+* **Recommended** [Variable Types](https://pubs.wsb.wisc.edu/academics/analytics-using-r-2019/variable-types.html) in Analytics Using R 
 * **Advanced** [Overview of Sampling](https://en.wikipedia.org/wiki/Sampling_(statistics)) in Wikipedia
 * **Advanced** [Practical Machine Learning Perspective on Sampling](https://machinelearningmastery.com/statistical-sampling-and-resampling/)
 
