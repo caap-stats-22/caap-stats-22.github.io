@@ -1,6 +1,8 @@
 # Schedule - Summer 2022
 
-This course follows regular CAAP schedule.  There is a section for each day, with materials for that day.  This schedule is subject to change before a class is held.
+This course follows regular CAAP schedule.  
+
+Related chapter or sections in the [textbook](openintro.org/os) will be posted at least one day before the lecture. Other reading materials can be changed anytime before and after the lecture. Please make sure to check this page regularly to see the updates. 
 
 
 ## Lec 01 - July 5th(Tue)
