@@ -5,72 +5,146 @@ This course follows regular CAAP schedule.  There is a section for each day, wit
 
 ## Lec 01 - July 5th(Tue)
 
-[Introduction to the course](notes/00.intro-to-course.md)
+### Course Material
+* [Introduction to the course](notes/00.intro-to-course.pdf)
+* [Example - Experimental Data: Chronic Fatigue Syndrome](https://docs.google.com/presentation/d/1M_FKCl8cJMMNL4aE9mDPDhgnXmASxP3zbemgi4E1p2c/edit#slide=id.g15dd200958_0_5)
 
-[Introduction to data](notes/01.intro-to-data.md)
 
 ## Lec 02 - July 7th(Thu)
 
+### Course Material
 [Introduction to data](notes/01.intro-to-data.md)
 
-[Introduction to R](notes/02.intro-to-R.md)
+### Readings
+* **Hihgly recommended** Chapter 1 from OS 
+* **Recommended** [Varialbe Types](https://pubs.wsb.wisc.edu/academics/analytics-using-r-2019/variable-types.html) in Analytics Using R 
+* **Advanced**[Overview of Sampling](https://en.wikipedia.org/wiki/Sampling_(statistics)) in Wikipedia
+* **Advanced**[Practical Machine Learning Perspective on Sampling](https://machinelearningmastery.com/statistical-sampling-and-resampling/)
 
 
 ## Lec 03 - July 8th(Fri)
-[Summarizing Data](notes/03.summarizing-data.md)
+
+### Course Material
+[Introduction to R](notes/02.intro-to-R.md)
+
+### Further Practice
+
 
 ## Lec 04 - July 11th(Mon)
+### Course Material
 [Summarizing Data](notes/03.summarizing-data.md)
 
+### Readings
+* **Highly Recommended** Chapter2 from OS
+
 ## Lec 05 - July 12th(Tue)
-[Probability](notes/04.probability.md)
+### Course Material
+[R Markdown]()
+
+### Further Practice
+
 
 ## Lec 06 - July 14th(Thu)
+
+### Course Material
 [Probability](notes/04.probability.md)
 
+### Readings
+* **Highly Recommended** Chapter3 from OS
+
 ## Lec 07- July 15th(Fri)
-[Calculus Review - Univariate](notes/05.calculus-review.md)
+
+### Course Material
+[Importing Data]()
+
+### Further Practice
 
 ## Lec 08 - July 18th(Mon)
-[Calculus Review - Multivariate](notes/05.calculus-review.md)
+
+### Course Material
+[Distributions](notes/06.distributions.md)
+
+### Readings
+* **Highly Recommended** Chapter4 from OS
 
 ## Lec 09 - July 19th(Tue)
-[Distributions - Binomial Distribution](notes/06.distributions.md)
+
+[Visualization]()
+
+### Further Practice
+* Exercise 4.1.2 from OS
 
 ## Lec 10 - July 21st(Thu)
-[Distributions - Binomial Distribution](notes/06.distributions.md)
+
+[Introduction to Data Project]()
 
 **Quiz 1**
 
 ## Lec 11 - July 22nd(Fri)
+### Course Material
 [Introduction to Statistical Inference](notes/07.intro-to-stat-inference.md)
+
+### Readings
+* **Highly Recommended** Chapter5 from OS
 
 ## Lec 12 - July 25th(Mon)
-[Introduction to Statistical Inference](notes/07.intro-to-stat-inference.md)
+[Exploratory Data Analysis]()
+
+### Further Practice
 
 ## Lec 13 - July 26th(Tue)
-[Inference on Numerical Data(mean)](notes/08.inference-on-num-data.md)
+### Course Material
+[Inference on Numerical Data](notes/08.inference-on-num-data.md)
+
+### Readings
+* **Highly Recommended** Chapter7 from OS
 
 ## Lec 14 - July 28th(Thu)
-[Inference on Numerical Data(proportion)](notes/08.inference-on-num-data.md)
+[Hypothesis Testing]()
+[Project Guidance-1]()
+
+### Further Practice
 
 ## Lec 15 - July 29th(Fri)
+### Course Material
 [Inference on Categorical Data](notes/09.inference-on-cat-data.md)
+
+### Readings
+* **Highly Recommended** Chapter6 from OS
 
 ## Lec 16 - Aug 1st(Mon)
-[Inference on Categorical Data](notes/09.inference-on-cat-data.md)
+[Hypothesis Testing]()
+[Project Guidance-2]()
+
+### Further Practice
 
 ## Lec 17 - Aug 2nd(Tue)
+### Course Material
 [Introduction to Linear Regression](notes/10.linear-regression.md)
 
+### Readings
+* **Highly Recommended** Chapter7 from OS
+* **Recommended** [One-variable Linear Regression](https://www.youtube.com/watch?v=wT3Y2K-fxXw) by MIT OpenCourseWare
+* **Advanced** [Ordinary Least Squares](https://en.wikipedia.org/wiki/Ordinary_least_squares) in Wikipedia
+* **Supplementary**
+
+
 ## Lec 18 - Aug 4th(Thu)
-[Linear Regression(Diagnostics)](notes/10.linear-regression.md)
+[Modeling and Linear Regression]()
+[Project Guidance-3]()
+
+### Further Practice
+* **Highly Recommended** [Interpret `lm` output from R](https://feliperego.github.io/blog/2015/10/23/Interpreting-Model-Output-In-R) by Filipe Rego
+
 
 ## Lec 19 - Aug 5th(Fri)
-[Logistic Regression](notes/11.logistic-regression.md)
+### Course Material
+[Linear Reression]
+[Project Guidance-4]()
 
 ## Lec 20 - Aug 8th(Mon)
-[Logistic Regression](notes/11.logistic-regression.md)
+
+**Presentation Day**
 
 ## Review - Aug 9th(Tue)
 [Review](notes/review-for-all.md)
