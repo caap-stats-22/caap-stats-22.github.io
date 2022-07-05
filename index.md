@@ -19,5 +19,5 @@ This course has no prerequisite—any exposure to calculus would be a plus but i
 ## Links
 
 * [Syllabus](syllabus.md) - additional information and logistics
-* [Schedule](schedule.md) - detailed schedule with links, readings, and assignments
-* [Canvas](https://canvas.uchicago.edu/courses/43564) - for discussion, general course administration
+* [Schedule](schedule.md) - detailed schedule with topics, readings and resources
+* [Canvas](https://canvas.uchicago.edu/courses/43564) - for general course administation, announcements
