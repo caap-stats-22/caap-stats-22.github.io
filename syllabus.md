@@ -1,17 +1,17 @@
 # Syllabus
 
 ## People
-Instructor:  Sowon Jeong. 1st year Master student in the Department of Statistics.
+Instructor:  Sowon Jeong. Graduate Student from the Department of Statistics.
 
-TA: TBD
+TA: Tala Germani. Undergraduate from the University of Chicago
 
 ## Office Hour
 
 Every office hours will be held via Zoom.
 
-Instructor: Tu, Thu 1:00pm - 2:00pm
+Instructor: Mon, Fri 1:00pm - 2:00pm
 
-TA: Mon, Fri 1:00pm - 2:00pm 
+TA: Tue, Thu 1:00pm - 2:00pm 
 
 
 ## Course Format
@@ -27,13 +27,16 @@ This course has no prerequisite—any exposure to calculus would be a plus but i
 
 ## Homework and Quiz
 
-less than 30 minutes recommended reading
+There is no assignment for this course -- I know the program has tight schedule, so please come to the lecture and try to pay attention to your best and ENJOY!
+
+There would be supplementary [reading materials](schedule.md) that you can read by yourself. I recommend you to read it before coming to the lecture. Reading materials would provide a wide range of examples which allow you to better understand the lecture.
 
 There will be 2 quizzes on July 21st, Aug 11th. As this course is *not* toward the official credit, the quizzes are designed to help you better understand the course material, but not to discourage you. 
 
 ## Participation
 
 You can always learn more when collaborating with others in class. For the last 20 minutes of lecture would be group discussion. The instructor will introduce the theory, related concepts and examples, and the students will try to apply these concepts into real-world situations during group discussion time.
+
 Active participation during the discussion is highly encouraged. 
 
 ## Textbook & Readings
