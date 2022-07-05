@@ -16,12 +16,17 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
 
 ### Course Material
 * [Introduction to data](notes/01.intro-to-data.md)
+* [Type of Variables](https://docs.google.com/presentation/d/1_WBy4_ZjmwX-TOj7MbyxQxpNefDZU5uC0-qE-vSTgco/edit#slide=id.g16c66c7699_0_53) from [OpenIntroStat](openintro.org/os)
+* [Sampling and Observational Studies](https://docs.google.com/presentation/d/1kIDLgAqZKsrrccb0qCNW4qzFDXyRtFZexNSWjat836Y/edit#slide=id.g172644b059_0_5)
+* [Experimental Studies](https://docs.google.com/presentation/d/1qcvXDm0uhUiT9E8KI1c49NjYdIoaLenx9P3NvpTN2L0/edit#slide=id.g5e3f5452cb_0_0)
 
 ### Readings
-* **Hihgly recommended** Chapter 1 from OS 
+* **Hihgly recommended** Chapter 1 with emphasis on *Guided Practice 1.4*, *Sec1.2.2.*Types of variables, *Sec 1.3.3.*Sampling from a population, *Sec 1.4.1.*Principles of experimental design
 * **Recommended** [Variable Types](https://pubs.wsb.wisc.edu/academics/analytics-using-r-2019/variable-types.html) in Analytics Using R 
+* **Recommended** [Video: Experimental Design](https://www.youtube.com/watch?v=xDWdJI_XT3k) by PSYCH EXPLAINED
 * **Advanced** [Overview of Sampling](https://en.wikipedia.org/wiki/Sampling_(statistics)) in Wikipedia
 * **Advanced** [Practical Machine Learning Perspective on Sampling](https://machinelearningmastery.com/statistical-sampling-and-resampling/)
+* **Advanced** [Observational Studies Explained](https://statisticsbyjim.com/basics/observational-studies/) by Statistics By Jim
 
 
 ## Lec 03 - July 8th(Fri)
