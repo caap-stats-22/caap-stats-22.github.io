@@ -7,7 +7,7 @@ This course follows regular CAAP schedule.  There is a section for each day, wit
 
 ### Course Material
 * [Introduction to the course](notes/00.intro-to-course.pdf)
-* [Example - Experimental Data: Chronic Fatigue Syndrome](https://docs.google.com/presentation/d/1M_FKCl8cJMMNL4aE9mDPDhgnXmASxP3zbemgi4E1p2c/edit#slide=id.g15dd200958_0_5)
+* [Example - Experimental Data: Chronic Fatigue Syndrome](https://docs.google.com/presentation/d/1M_FKCl8cJMMNL4aE9mDPDhgnXmASxP3zbemgi4E1p2c/edit#slide=id.g15dd200958_0_5) from [OpenIntroStat](openintro.org/os)
 
 
 ## Lec 02 - July 7th(Thu)
