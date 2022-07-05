@@ -1,9 +1,9 @@
 # Syllabus
 
 ## People
-Instructor:  Sowon Jeong. Graduate Student from the Department of Statistics.
+Instructor:  **Sowon Jeong**. Graduate Student from the Department of Statistics.
 
-TA: Tala Germani. Undergraduate from the University of Chicago
+TA: **Tala Germani**. Undergraduate from the University of Chicago
 
 ## Office Hour
 
