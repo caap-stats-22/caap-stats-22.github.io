@@ -83,7 +83,7 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
 
 ## Lec 10 - July 21st(Thu)
 
-[Introduction to Data Project]()
+[Introduction to Data Project](notes/intro-to-data-project.md)
 
 **Quiz 1**
 
@@ -108,7 +108,7 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
 
 ## Lec 14 - July 28th(Thu)
 * [Hypothesis Testing]()
-* [Project Guidance-1]()
+* [Project Guidance-1](notes/project1.md)
 
 ### Further Practice
 
@@ -121,7 +121,7 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
 
 ## Lec 16 - Aug 1st(Mon)
 * [Hypothesis Testing]()
-* [Project Guidance-2]()
+* [Project Guidance-2](notes/project2.md)
 
 ### Further Practice
 
@@ -138,7 +138,7 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
 
 ## Lec 18 - Aug 4th(Thu)
 * [Modeling and Linear Regression]()
-* [Project Guidance-3]()
+* [Project Guidance-3](notes/project3.md)
 
 ### Further Practice
 * **Highly Recommended** [Interpret `lm` output from R](https://feliperego.github.io/blog/2015/10/23/Interpreting-Model-Output-In-R) by Filipe Rego
@@ -146,8 +146,8 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
 
 ## Lec 19 - Aug 5th(Fri)
 ### Course Material
-* [Linear Reression]
-* [Project Guidance-4]()
+* [Linear Reression]()
+* [Project Guidance-4](notes/project4.md)
 
 ## Lec 20 - Aug 8th(Mon)
 
