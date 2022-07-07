@@ -18,7 +18,11 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
 * [Introduction to data](notes/Lec02.pdf) based on [OpenIntroStat](openintro.org/os)
 
 ### Readings
-* **Hihgly recommended** Chapter 1 with emphasis on *Guided Practice 1.4*, *Sec1.2.2*.Types of variables, *Sec 1.3.3*.Sampling from a population, *Sec 1.4.1*.Principles of experimental design
+* **Hihgly recommended** Chapter 1 with emphasis on 
+  * Guided Practice 1.4
+  * Sec1.2.2.Types of variables
+  * Sec 1.3.3.Sampling from a population, 
+  * Sec 1.4.1.Principles of experimental design
 * **Recommended** [Variable Types](https://pubs.wsb.wisc.edu/academics/analytics-using-r-2019/variable-types.html) in Analytics Using R 
 * **Recommended** [Video: Experimental Design](https://www.youtube.com/watch?v=xDWdJI_XT3k) by PSYCH EXPLAINED
 * **Advanced** [Overview of Sampling](https://en.wikipedia.org/wiki/Sampling_(statistics)) in Wikipedia
@@ -34,6 +38,7 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
 ### Further Practice
 
 ### Resources
+* [Video: How to install R and Rstudio](https://www.youtube.com/watch?v=TFGYlKvQEQ4) by DDS
 * [An Introduction to R](https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf)
 * [Introduction to R](https://stats.oarc.ucla.edu/stat/data/intro_r/intro_r_interactive_flat.html) by IDRE Statistical Consulting Group
 * [R For Data Science](https://r4ds.had.co.nz/) by Hadley Wickham
