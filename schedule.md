@@ -15,10 +15,7 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
 ## Lec 02 - July 7th(Thu)
 
 ### Course Material
-* [Introduction to data](notes/01.intro-to-data.md)
-* [Type of Variables](https://docs.google.com/presentation/d/1_WBy4_ZjmwX-TOj7MbyxQxpNefDZU5uC0-qE-vSTgco/edit#slide=id.g16c66c7699_0_53) from [OpenIntroStat](openintro.org/os)
-* [Sampling and Observational Studies](https://docs.google.com/presentation/d/1kIDLgAqZKsrrccb0qCNW4qzFDXyRtFZexNSWjat836Y/edit#slide=id.g172644b059_0_5)
-* [Experimental Studies](https://docs.google.com/presentation/d/1qcvXDm0uhUiT9E8KI1c49NjYdIoaLenx9P3NvpTN2L0/edit#slide=id.g5e3f5452cb_0_0)
+* [Introduction to data](notes/Lec02.pdf) based on [OpenIntroStat](openintro.org/os)
 
 ### Readings
 * **Hihgly recommended** Chapter 1 with emphasis on *Guided Practice 1.4*, *Sec1.2.2*.Types of variables, *Sec 1.3.3*.Sampling from a population, *Sec 1.4.1*.Principles of experimental design
