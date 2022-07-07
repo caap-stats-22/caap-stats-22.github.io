@@ -20,7 +20,7 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
 ### Readings
 * **Hihgly recommended** Chapter 1 with emphasis on 
   * Guided Practice 1.4
-  * Sec1.2.2.Types of variables
+  * Sec 1.2.2.Types of variables
   * Sec 1.3.3.Sampling from a population, 
   * Sec 1.4.1.Principles of experimental design
 * **Recommended** [Variable Types](https://pubs.wsb.wisc.edu/academics/analytics-using-r-2019/variable-types.html) in Analytics Using R 
