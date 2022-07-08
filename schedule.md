@@ -33,7 +33,6 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
 ## Lec 03 - July 8th(Fri)
 
 ### Course Material
-* [Introduction to R](notes/02.intro-to-R.md)
 * [Install R](https://www.r-project.org/)
 * [Install R Studio](https://www.rstudio.com/products/rstudio/download/)
 
@@ -46,6 +45,7 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
 * [Introduction to R](https://stats.oarc.ucla.edu/stat/data/intro_r/intro_r_interactive_flat.html) by IDRE Statistical Consulting Group
 * [R For Data Science](https://r4ds.had.co.nz/) by Hadley Wickham
 * [R Packages](https://r-pkgs.org/) by Hadley Wickham and Jenny Bryan
+* [Stackoverflow - R](https://stackoverflow.com/questions/tagged/r)
 
 ## Lec 04 - July 11th(Mon)
 ### Course Material
