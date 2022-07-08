@@ -38,7 +38,7 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
 
 ### Readings
 * [R For Data Science](https://r4ds.had.co.nz/) by Hadley Wickham
- *  Chapter 1. Introduction
+  * Chapter 1. Introduction
 
 ### Resources
 * [Video: How to install R and Rstudio](https://www.youtube.com/watch?v=TFGYlKvQEQ4) by DDS
