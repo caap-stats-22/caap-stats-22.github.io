@@ -34,8 +34,11 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
 
 ### Course Material
 * [Introduction to R](notes/02.intro-to-R.md)
+* [Install R](https://www.r-project.org/)
+* [Install R Studio](https://www.rstudio.com/products/rstudio/download/)
 
 ### Further Practice
+* [Lab 1](http://openintrostat.github.io/oilabs-tidy/01_intro_to_r/intro_to_r.html) from [OpenIntroStat](openintro.org/os)
 
 ### Resources
 * [Video: How to install R and Rstudio](https://www.youtube.com/watch?v=TFGYlKvQEQ4) by DDS
