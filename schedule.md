@@ -36,16 +36,21 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
 * [Install R](https://www.r-project.org/)
 * [Install R Studio](https://www.rstudio.com/products/rstudio/download/)
 
-### Further Practice
-* [Lab 1](http://openintrostat.github.io/oilabs-tidy/01_intro_to_r/intro_to_r.html) from [OpenIntroStat](openintro.org/os)
+### Readings
+* [R For Data Science](https://r4ds.had.co.nz/) by Hadley Wickham
+ *  Chapter 1. Introduction
 
 ### Resources
 * [Video: How to install R and Rstudio](https://www.youtube.com/watch?v=TFGYlKvQEQ4) by DDS
 * [An Introduction to R](https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf)
 * [Introduction to R](https://stats.oarc.ucla.edu/stat/data/intro_r/intro_r_interactive_flat.html) by IDRE Statistical Consulting Group
-* [R For Data Science](https://r4ds.had.co.nz/) by Hadley Wickham
+
 * [R Packages](https://r-pkgs.org/) by Hadley Wickham and Jenny Bryan
 * [Stackoverflow - R](https://stackoverflow.com/questions/tagged/r)
+
+### Further Practice
+* [Lab 1](http://openintrostat.github.io/oilabs-tidy/01_intro_to_r/intro_to_r.html) from [OpenIntroStat](openintro.org/os)
+
 
 ## Lec 04 - July 11th(Mon)
 ### Course Material
