@@ -81,12 +81,12 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
 
 ### Readings
 * **Highly Recommended** Chapter 3 with emphasis on 
- * Sec 3.1.1 Introductory examples -- highly recommend to try solving by hand
- * Sec 3.1.5 Probability distributions
- * Sec 3.1.7 Independence
- * **Advanced** Sec 3.2.3 Defining conditional probability
- * Sec 3.4.1 Expectation
- * Sec 3.4.2 Variability in random variables
+  * Sec 3.1.1 Introductory examples -- highly recommend to try solving by hand
+  * Sec 3.1.5 Probability distributions
+  * Sec 3.1.7 Independence
+  * **Advanced** Sec 3.2.3 Defining conditional probability
+  * Sec 3.4.1 Expectation
+  * Sec 3.4.2 Variability in random variables
 
 ## Lec 07- July 15th(Fri)
 
@@ -102,10 +102,10 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
 
 ### Readings
 * **Highly Recommended** Chapter 4 with emphasis on 
- * Sec 4.1 Normal distribution
- * Sec 4.2.1 Bernoulli distribution
- * Sec 4.3 Binomial distribution
- * Sec 4.5 Poisson distribution(depending on the progress)
+  * Sec 4.1 Normal distribution
+  * Sec 4.2.1 Bernoulli distribution
+  * Sec 4.3 Binomial distribution
+  * Sec 4.5 Poisson distribution(depending on the progress)
 
 
 ## Lec 09 - July 19th(Tue)
@@ -127,12 +127,12 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
 
 ### Readings
 * **Highly Recommended** Chapter 5 with an emphasis on
- * Sec 5.1.1 Point estimates and error
- * Sec 5.1.2 Understanding the variability of a point estimate
- * Sec 5.2.5 Interpreteing confidence intervals
- * Sec 5.3.1 Hypothesis testing framework
- * Sec 5.3.3 Decision errors
- * Sec 5.3.7 One-sided hypothesis tests
+  * Sec 5.1.1 Point estimates and error
+  * Sec 5.1.2 Understanding the variability of a point estimate
+  * Sec 5.2.5 Interpreteing confidence intervals
+  * Sec 5.3.1 Hypothesis testing framework
+  * Sec 5.3.3 Decision errors
+  * Sec 5.3.7 One-sided hypothesis tests
 
 ## Lec 12 - July 25th(Mon)
 [Exploratory Data Analysis]()
@@ -145,9 +145,9 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
 
 ### Readings
 * **Highly Recommended** Chapter 7 with an emphasis on
- * Sec 7.1 One-sample means with the t-distribution
- * Sec 7.3 Difference of two means
- * **Advanced** Sec 7.5 Comparing many means with ANOVA
+  * Sec 7.1 One-sample means with the t-distribution
+  * Sec 7.3 Difference of two means
+  * **Advanced** Sec 7.5 Comparing many means with ANOVA
 
 ## Lec 14 - July 28th(Thu)
 * [Hypothesis Testing]()
@@ -161,8 +161,8 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
 
 ### Readings
 * **Highly Recommended** Chapter 6 with an emphasis on 
- * Sec 6.1 Inference for a single proportion
- * Sec 6.2 Difference of two proportions
+  * Sec 6.1 Inference for a single proportion
+  * Sec 6.2 Difference of two proportions
 
 ## Lec 16 - Aug 1st(Mon)
 * [Hypothesis Testing]()
@@ -176,10 +176,10 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
 
 ### Readings
 * **Highly Recommended** Chapter 7 with an emphasis on
- * Sec 8.1.1 Fitting a line to data
- * Sec 8.1.3 Residuals
- * **Advanced** Sec 8.2 Least squares regression
- * Sec 8.4 Inference for linear regression
+  * Sec 8.1.1 Fitting a line to data
+  * Sec 8.1.3 Residuals
+  * **Advanced** Sec 8.2 Least squares regression
+  * Sec 8.4 Inference for linear regression
 * **Recommended** [One-variable Linear Regression](https://www.youtube.com/watch?v=wT3Y2K-fxXw) by MIT OpenCourseWare
 * **Advanced** [Ordinary Least Squares](https://en.wikipedia.org/wiki/Ordinary_least_squares) in Wikipedia
 * **Supplementary**
