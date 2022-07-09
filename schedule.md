@@ -58,7 +58,12 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
 [Example - Gender Discrimination](https://docs.google.com/presentation/d/1aUUXmZhZXSnvbDlI8eA-QtqhTzgQlwqtY4l9aE2CGXA/edit#slide=id.ge4a04296_024) from [OpenIntroStat](openintro.org/os)
 
 ### Readings
-* **Highly Recommended** Chapter2 from OS
+* **Highly Recommended** Chapter 2 with emphasis on 
+  * Sec 2.1.1 Scatterplots for paired data
+  * Sec 2.1.3 Histograms and shape
+  * Sec 2.1.5 Box plots, quartiles, and the median
+  * Sec 2.2.1 Contingency tables and bar plots
+  * Sec 2.3.1 Variability within data
 * **Recommended** [Graphical Summaries](http://dept.stat.lsa.umich.edu/~kshedden/introds/topics/graphical_summaries/) in Introduction to Data Science
 * **Recommended** [Describing Data](https://byuistats.github.io/Statistics-Notebook/index.html) in Statistics Notebook
 
@@ -75,7 +80,13 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
 * [Probability](notes/04.probability.md)
 
 ### Readings
-* **Highly Recommended** Chapter3 from OS
+* **Highly Recommended** Chapter 3 with emphasis on 
+ * Sec 3.1.1 Introductory examples -- highly recommend to try solving by hand
+ * Sec 3.1.5 Probability distributions
+ * Sec 3.1.7 Independence
+ * **Advanced** Sec 3.2.3 Defining conditional probability
+ * Sec 3.4.1 Expectation
+ * Sec 3.4.2 Variability in random variables
 
 ## Lec 07- July 15th(Fri)
 
@@ -90,7 +101,12 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
 * [Distributions](notes/06.distributions.md)
 
 ### Readings
-* **Highly Recommended** Chapter4 from OS
+* **Highly Recommended** Chapter 4 with emphasis on 
+ * Sec 4.1 Normal distribution
+ * Sec 4.2.1 Bernoulli distribution
+ * Sec 4.3 Binomial distribution
+ * Sec 4.5 Poisson distribution(depending on the progress)
+
 
 ## Lec 09 - July 19th(Tue)
 
@@ -110,7 +126,13 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
 [Introduction to Statistical Inference](notes/07.intro-to-stat-inference.md)
 
 ### Readings
-* **Highly Recommended** Chapter5 from OS
+* **Highly Recommended** Chapter 5 with an emphasis on
+ * Sec 5.1.1 Point estimates and error
+ * Sec 5.1.2 Understanding the variability of a point estimate
+ * Sec 5.2.5 Interpreteing confidence intervals
+ * Sec 5.3.1 Hypothesis testing framework
+ * Sec 5.3.3 Decision errors
+ * Sec 5.3.7 One-sided hypothesis tests
 
 ## Lec 12 - July 25th(Mon)
 [Exploratory Data Analysis]()
@@ -122,7 +144,10 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
 * [Inference on Numerical Data](notes/08.inference-on-num-data.md)
 
 ### Readings
-* **Highly Recommended** Chapter7 from OS
+* **Highly Recommended** Chapter 7 with an emphasis on
+ * Sec 7.1 One-sample means with the t-distribution
+ * Sec 7.3 Difference of two means
+ * **Advanced** Sec 7.5 Comparing many means with ANOVA
 
 ## Lec 14 - July 28th(Thu)
 * [Hypothesis Testing]()
@@ -135,7 +160,9 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
 [Inference on Categorical Data](notes/09.inference-on-cat-data.md)
 
 ### Readings
-* **Highly Recommended** Chapter6 from OS
+* **Highly Recommended** Chapter 6 with an emphasis on 
+ * Sec 6.1 Inference for a single proportion
+ * Sec 6.2 Difference of two proportions
 
 ## Lec 16 - Aug 1st(Mon)
 * [Hypothesis Testing]()
@@ -148,7 +175,11 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
 [Introduction to Linear Regression](notes/10.linear-regression.md)
 
 ### Readings
-* **Highly Recommended** Chapter7 from OS
+* **Highly Recommended** Chapter 7 with an emphasis on
+ * Sec 8.1.1 Fitting a line to data
+ * Sec 8.1.3 Residuals
+ * **Advanced** Sec 8.2 Least squares regression
+ * Sec 8.4 Inference for linear regression
 * **Recommended** [One-variable Linear Regression](https://www.youtube.com/watch?v=wT3Y2K-fxXw) by MIT OpenCourseWare
 * **Advanced** [Ordinary Least Squares](https://en.wikipedia.org/wiki/Ordinary_least_squares) in Wikipedia
 * **Supplementary**
