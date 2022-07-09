@@ -44,7 +44,6 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
 * [Video: How to install R and Rstudio](https://www.youtube.com/watch?v=TFGYlKvQEQ4) by DDS
 * [An Introduction to R](https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf)
 * [Introduction to R](https://stats.oarc.ucla.edu/stat/data/intro_r/intro_r_interactive_flat.html) by IDRE Statistical Consulting Group
-
 * [R Packages](https://r-pkgs.org/) by Hadley Wickham and Jenny Bryan
 * [Stackoverflow - R](https://stackoverflow.com/questions/tagged/r)
 
@@ -72,6 +71,7 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
 * [R Markdown]()
 
 ### Further Practice
+* [Lab 2]([http://openintrostat.github.io/oilabs-tidy/01_intro_to_r/intro_to_r.html](http://openintrostat.github.io/oilabs-tidy/02_intro_to_data/intro_to_data.html) from [OpenIntroStat](openintro.org/os)
 
 
 ## Lec 06 - July 14th(Thu)
