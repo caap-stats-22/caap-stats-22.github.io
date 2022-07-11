@@ -53,8 +53,7 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
 
 ## Lec 04 - July 11th(Mon)
 ### Course Material
-[Summarizing Data](notes/03.summarizing-data.md)
-[Example - Gender Discrimination](https://docs.google.com/presentation/d/1aUUXmZhZXSnvbDlI8eA-QtqhTzgQlwqtY4l9aE2CGXA/edit#slide=id.ge4a04296_024) from [OpenIntroStat](openintro.org/os)
+* [Summarizing Data](notes/Lec04.pdf) based on [OpenIntroStat](openintro.org/os)
 
 ### Readings
 * **Highly Recommended** Chapter 2 with emphasis on 
