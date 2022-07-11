@@ -70,7 +70,7 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
 * [R Markdown]()
 
 ### Further Practice
-* [Lab 2]([http://openintrostat.github.io/oilabs-tidy/01_intro_to_r/intro_to_r.html](http://openintrostat.github.io/oilabs-tidy/02_intro_to_data/intro_to_data.html) from [OpenIntroStat](openintro.org/os)
+* [Lab 2](http://openintrostat.github.io/oilabs-tidy/02_intro_to_data/intro_to_data.html) from [OpenIntroStat](openintro.org/os)
 
 
 ## Lec 06 - July 14th(Thu)
