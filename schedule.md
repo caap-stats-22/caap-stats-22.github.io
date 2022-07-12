@@ -115,6 +115,7 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
   * Sec 4.2.1 Bernoulli distribution
   * Sec 4.3 Binomial distribution
   * Sec 4.5 Poisson distribution(depending on the progress)
+* **Advanced** [Univariate Distribution Relationship](http://www.math.wm.edu/~leemis/chart/UDR/UDR.html)
 
 
 ## Lec 09 - July 19th(Tue)
