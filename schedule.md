@@ -67,16 +67,22 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
 
 ## Lec 05 - July 12th(Tue)
 ### Course Material
-* [R Markdown]()
+* [R Session2](notes/Lec05.pdf)
+
+### Resources
+* [R Markdown Tutorial](https://rmarkdown.rstudio.com/lesson-1.html) by RStudio
+* [Why R Markdown is Useful](https://intro2r.com/why-use-r-markdown.html) from Introduciton to R
+* [ggplot2: elegant graphics for data analysis](https://ggplot2-book.org/index.html)
+* [The tidyverse style guide](https://style.tidyverse.org/)
 
 ### Further Practice
 * [Lab 2](http://openintrostat.github.io/oilabs-tidy/02_intro_to_data/intro_to_data.html) from [OpenIntroStat](openintro.org/os)
-
+ 
 
 ## Lec 06 - July 14th(Thu)
 
 ### Course Material
-* [Probability](notes/04.probability.md)
+* [Probability](notes/Lec06.pdf) based on [OpenIntroStat](openintro.org/os)
 
 ### Readings
 * **Highly Recommended** Chapter 3 with emphasis on 
@@ -90,14 +96,17 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
 ## Lec 07- July 15th(Fri)
 
 ### Course Material
-* [Importing Data]()
+* [RSession3](notes/Lec07.pdf)
+
 
 ### Further Practice
+* [Lab 3](http://openintrostat.github.io/oilabs-tidy/03_probability/probability.html) from [OpenIntroStat](openintro.org/os)
+
 
 ## Lec 08 - July 18th(Mon)
 
 ### Course Material
-* [Distributions](notes/06.distributions.md)
+* [Distributions](notes/Lec08.pdf)
 
 ### Readings
 * **Highly Recommended** Chapter 4 with emphasis on 
