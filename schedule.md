@@ -124,6 +124,8 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
 
 ### Further Practice
 * Exercise 4.1.2 from OS
+* [Lab 4](http://openintrostat.github.io/oilabs-tidy/04_normal_distribution/normal_distribution.html) from [OpenIntroStat](openintro.org/os)
+
 
 ## Lec 10 - July 21st(Thu)
 
@@ -148,6 +150,9 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
 [Exploratory Data Analysis]()
 
 ### Further Practice
+* [Lab5-Introduction to Inference](https://openintro.shinyapps.io/sampling_distributions/) from [OpenIntroStat](openintro.org/os)
+* [Lab5-Confidence Interval](https://openintro.shinyapps.io/confidence_intervals/) from [OpenIntroStat](openintro.org/os)
+
 
 ## Lec 13 - July 26th(Tue)
 ### Course Material
@@ -164,6 +169,8 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
 * [Project Guidance-1](notes/project1.md)
 
 ### Further Practice
+* [Lab7](http://openintrostat.github.io/oilabs-tidy/07_inf_for_numerical_data/inf_for_numerical_data.html) from [OpenIntroStat](openintro.org/os)
+
 
 ## Lec 15 - July 29th(Fri)
 ### Course Material
@@ -179,6 +186,8 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
 * [Project Guidance-2](notes/project2.md)
 
 ### Further Practice
+* [Lab6](https://openintro.shinyapps.io/inf_for_categorical_data/) from [OpenIntroStat](openintro.org/os)
+
 
 ## Lec 17 - Aug 2nd(Tue)
 ### Course Material
@@ -199,9 +208,11 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
 * [Modeling and Linear Regression]()
 * [Project Guidance-3](notes/project3.md)
 
-### Further Practice
+### Readings
 * **Highly Recommended** [Interpret `lm` output from R](https://feliperego.github.io/blog/2015/10/23/Interpreting-Model-Output-In-R) by Filipe Rego
 
+### Further Practice
+* [Lab8](http://openintrostat.github.io/oilabs-tidy/08_simple_regression/simple_regression.html) from [OpenIntroStat](openintro.org/os)
 
 ## Lec 19 - Aug 5th(Fri)
 ### Course Material
