@@ -70,6 +70,7 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
 * [R Session2](notes/Lec05.pdf)
 
 ### Resources
+* **Highly recommended** [R Markdown: The definitive guide](https://bookdown.org/yihui/rmarkdown/) by Yihui Xie, J. J. Allaire, Garrett Grolemund
 * [R Markdown Tutorial](https://rmarkdown.rstudio.com/lesson-1.html) by RStudio
 * [Why R Markdown is Useful](https://intro2r.com/why-use-r-markdown.html) from Introduciton to R
 * [ggplot2: elegant graphics for data analysis](https://ggplot2-book.org/index.html)
