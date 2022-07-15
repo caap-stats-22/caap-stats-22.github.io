@@ -94,6 +94,7 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
   * Sec 3.4.1 Expectation
   * Sec 3.4.2 Variability in random variables
 * [Law of Large Numbers](https://en.wikipedia.org/wiki/Law_of_large_numbers) in Wikipedia 
+* **Supplementary** [Disjoint vs Independent](https://online.stat.psu.edu/stat200/lesson/2/2.1/2.1.3/2.1.3.2/2.1.3.2.1) from PSU Statistics Online
 
 ## Lec 07- July 15th(Fri)
 
@@ -101,7 +102,9 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
 * [RSession3](notes/Lec07.pdf)
 
 ### Readings
-* **Recommended** [Chap20. Simulation](https://bookdown.org/rdpeng/rprogdatascience/simulation.html) from R Programming for Data Science
+* **Recommended** [20. Simulation](https://bookdown.org/rdpeng/rprogdatascience/simulation.html) from R Programming for Data Science
+
+
 ### Further Practice
 * [Lab 3](http://openintrostat.github.io/oilabs-tidy/03_probability/probability.html) from [OpenIntroStat](openintro.org/os)
 
