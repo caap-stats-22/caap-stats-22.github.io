@@ -93,6 +93,7 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
   * **Advanced** Sec 3.2.3 Defining conditional probability
   * Sec 3.4.1 Expectation
   * Sec 3.4.2 Variability in random variables
+* [Law of Large Numbers](https://en.wikipedia.org/wiki/Law_of_large_numbers) in Wikipedia 
 
 ## Lec 07- July 15th(Fri)
 
@@ -120,7 +121,7 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
 
 ## Lec 09 - July 19th(Tue)
 
-[Visualization]()
+[Rsession4](notes/Lec09.pdf)
 
 ### Further Practice
 * Exercise 4.1.2 from OS
@@ -129,13 +130,17 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
 
 ## Lec 10 - July 21st(Thu)
 
-[Introduction to Data Project](notes/intro-to-data-project.md)
+[Introduction to Data Project](notes/Lec10.pdf)
 
-**Quiz 1**
+### Quiz 1
+* [Practice exam]()
+* [Quiz 1]()
+* [Quiz 1-sol]()
+
 
 ## Lec 11 - July 22nd(Fri)
 ### Course Material
-[Introduction to Statistical Inference](notes/07.intro-to-stat-inference.md)
+[Introduction to Statistical Inference](notes/Lec11.pdf)
 
 ### Readings
 * **Highly Recommended** Chapter 5 with an emphasis on
@@ -145,9 +150,10 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
   * Sec 5.3.1 Hypothesis testing framework
   * Sec 5.3.3 Decision errors
   * Sec 5.3.7 One-sided hypothesis tests
+* [Central Limit Theorem](https://en.wikipedia.org/wiki/Central_limit_theorem) in Wikipedia
 
 ## Lec 12 - July 25th(Mon)
-[Exploratory Data Analysis]()
+[RSession5](notes/Lec12.pdf)
 
 ### Further Practice
 * [Lab5-Introduction to Inference](https://openintro.shinyapps.io/sampling_distributions/) from [OpenIntroStat](openintro.org/os)
@@ -156,7 +162,7 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
 
 ## Lec 13 - July 26th(Tue)
 ### Course Material
-* [Inference on Numerical Data](notes/08.inference-on-num-data.md)
+* [Inference on Numerical Data](notes/Lec13.pdf)
 
 ### Readings
 * **Highly Recommended** Chapter 7 with an emphasis on
@@ -225,6 +231,7 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
 
 ## Review - Aug 9th(Tue)
 * [Review](notes/review-for-all.md)
+* [Practice exam]()
 
 ## Finals Period
 
