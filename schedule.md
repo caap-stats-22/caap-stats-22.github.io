@@ -100,7 +100,8 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
 ### Course Material
 * [RSession3](notes/Lec07.pdf)
 
-
+### Readings
+* **Recommended** [Chap20. Simulation](https://bookdown.org/rdpeng/rprogdatascience/simulation.html) from R Programming for Data Science
 ### Further Practice
 * [Lab 3](http://openintrostat.github.io/oilabs-tidy/03_probability/probability.html) from [OpenIntroStat](openintro.org/os)
 
