@@ -146,8 +146,6 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
 ### Quiz 1
 * [Practice exam]()
 * [Quiz 1]()
-* [Quiz 1-sol]()
-
 
 ## Lec 11 - July 22nd(Fri)
 ### Course Material
