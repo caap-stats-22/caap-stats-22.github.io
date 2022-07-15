@@ -69,6 +69,11 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
 ### Course Material
 * [R Session2](notes/Lec05.pdf)
 
+### Readings
+* [R For Data Science](https://r4ds.had.co.nz/) by Hadley Wickham
+  * Chapter 3. Visualization
+  * Chapter 27. R Markdown ~ Chapter 30. R Markdown workflow
+
 ### Resources
 * **Highly recommended** [R Markdown: The definitive guide](https://bookdown.org/yihui/rmarkdown/) by Yihui Xie, J. J. Allaire, Garrett Grolemund
 * [R Markdown Tutorial](https://rmarkdown.rstudio.com/lesson-1.html) by RStudio
@@ -104,7 +109,6 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
 ### Readings
 * **Recommended** [20. Simulation](https://bookdown.org/rdpeng/rprogdatascience/simulation.html) from R Programming for Data Science
 
-
 ### Further Practice
 * [Lab 3](http://openintrostat.github.io/oilabs-tidy/03_probability/probability.html) from [OpenIntroStat](openintro.org/os)
 
@@ -126,6 +130,9 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
 ## Lec 09 - July 19th(Tue)
 
 [Rsession4](notes/Lec09.pdf)
+
+### Readings
+* [R For Data Science](https://r4ds.had.co.nz/) by Hadley Wickham
 
 ### Further Practice
 * Exercise 4.1.2 from OS
@@ -159,6 +166,9 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
 ## Lec 12 - July 25th(Mon)
 [RSession5](notes/Lec12.pdf)
 
+### Readings
+* [R For Data Science](https://r4ds.had.co.nz/) by Hadley Wickham
+
 ### Further Practice
 * [Lab5-Introduction to Inference](https://openintro.shinyapps.io/sampling_distributions/) from [OpenIntroStat](openintro.org/os)
 * [Lab5-Confidence Interval](https://openintro.shinyapps.io/confidence_intervals/) from [OpenIntroStat](openintro.org/os)
@@ -178,6 +188,9 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
 * [Hypothesis Testing]()
 * [Project Guidance-1](notes/project1.md)
 
+### Readings
+* [R For Data Science](https://r4ds.had.co.nz/) by Hadley Wickham
+
 ### Further Practice
 * [Lab7](http://openintrostat.github.io/oilabs-tidy/07_inf_for_numerical_data/inf_for_numerical_data.html) from [OpenIntroStat](openintro.org/os)
 
@@ -194,6 +207,9 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
 ## Lec 16 - Aug 1st(Mon)
 * [Hypothesis Testing]()
 * [Project Guidance-2](notes/project2.md)
+
+### Readings
+* [R For Data Science](https://r4ds.had.co.nz/) by Hadley Wickham
 
 ### Further Practice
 * [Lab6](https://openintro.shinyapps.io/inf_for_categorical_data/) from [OpenIntroStat](openintro.org/os)
@@ -220,6 +236,9 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
 
 ### Readings
 * **Highly Recommended** [Interpret `lm` output from R](https://feliperego.github.io/blog/2015/10/23/Interpreting-Model-Output-In-R) by Filipe Rego
+
+### Readings
+* [R For Data Science](https://r4ds.had.co.nz/) by Hadley Wickham
 
 ### Further Practice
 * [Lab8](http://openintrostat.github.io/oilabs-tidy/08_simple_regression/simple_regression.html) from [OpenIntroStat](openintro.org/os)
