@@ -27,9 +27,7 @@ Primary resources (desceding order by **importance**)
 
 
 
-### <summary> 
-Resource 
-</summary>
+### Resource 
 
 <details>
  
