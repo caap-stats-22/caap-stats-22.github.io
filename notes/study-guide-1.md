@@ -33,8 +33,10 @@ This is how you dropdown.
 
 <details>
 
-### <summary>Resource</summary>
-
+<summary> 
+### Resource 
+</summary>
+ 
 #### [Lecture note](notes/Lec02.pdf)
 #### Exercises
  * (p.11) Exercise 1.2: Sinusitis and antibiotics
