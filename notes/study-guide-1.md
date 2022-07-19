@@ -17,6 +17,12 @@ Primary resources (desceding order by **importance**)
   * [**Sample quiz**](notes/Quiz1-sample.pdf)
       * Thoroughly review lecture notes, R code and practice questions from the textbook prior to working on the sample quiz
 
+<details>
+<summary>How do I dropdown?</summary>
+<br>
+This is how you dropdown.
+</details>
+
 
 ## Chapter 1. Introduction to data
 ### Learning Objective
