@@ -51,8 +51,8 @@ Primary resources (desceding order by **importance**)
 
 ### [R Session](notes/Lec05.pdf)
  * The important part is 
-    * 1) why this particular graph is useful in summarizing the data
-    * 2) how to interpret the graph
+    * why this particular graph is useful in summarizing the data
+    * how to interpret the graph
 
 ## Chapter 3. Proabibility
 
