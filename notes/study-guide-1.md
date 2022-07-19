@@ -8,7 +8,7 @@ Primary resources (desceding order by **importance**)
       * **Practice questions** -- reasoning for every options(why correct? why wrong?)
    
   * **R Session code** with emphasis on
-      * Why are we running this code? What we want to check by running the code?
+      * Why are we running this code? What do we want to check by running the code?
       * What does specific code mean? Which element is needed for running a sepcific function?
      
   * **Recommended exercises** in [OS](https://www.openintro.org/book/os/)
