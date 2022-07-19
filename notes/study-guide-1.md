@@ -14,7 +14,7 @@ Primary resources (desceding order by **importance**)
   * **Recommended exercises** in [OS](https://www.openintro.org/book/os/)
       * Emphasis on how the related concepts can be used in real-life example
 
-  * [Quiz1-sample](notes/Quiz1-sample.pdf)
+  * [**Sample quiz**](notes/Quiz1-sample.pdf)
       * Thoroughly review lecture notes, R code and practice questions from the textbook prior to working on the sample quiz
 
 
