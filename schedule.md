@@ -146,7 +146,7 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
 [Introduction to Data Project](notes/Lec10.pdf)
 
 ### Quiz 1
-* [Practice exam]()
+* [Practice exam](notes/Quiz1-sample.pdf)
 * [Quiz 1]()
 
 ## Lec 11 - July 22nd(Fri)
