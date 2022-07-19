@@ -31,8 +31,8 @@ Primary resources (desceding order by **importance**)
  * (p.37) Exercise 1.41: Eat better, feel better
 
 ### R Session
- * How we use the following packages: `tidyverse`, `ggplot2`?
- * \[`arbuthnot`\]Interpret the trend on the number of new born boys 
+ * How do we use the following packages: `tidyverse`, `ggplot2`?
+ * \[`arbuthnot`\]Interpret the trend on the number of new born boys/girls.
 
 ## Chapter 2. Summarizing the data
 ### [Lecture note](notes/Lec04.pdf)
