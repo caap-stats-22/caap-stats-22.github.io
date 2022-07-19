@@ -1,6 +1,9 @@
-# Primary resources(desceding order by **importance**)
+# Study Guide for Quiz 1(Jul 21st)
 
-The purpose of quiz is to make sure we are on the same page! You can recall all the important 
+
+The purpose of quiz is to make sure we are on the same page!
+
+Primary resources(desceding order by **importance**)
 
   * **Lecture notes** with emphasis on
       * How do we define each concept?
