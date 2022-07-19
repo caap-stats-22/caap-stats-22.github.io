@@ -31,10 +31,10 @@ This is how you dropdown.
  * Causation vs. Correlation/Association
 
 
-
 <details>
- ### <summary>Resource</summary>
-<br>
+
+### <summary>Resource</summary>
+
 #### [Lecture note](notes/Lec02.pdf)
 #### Exercises
  * (p.11) Exercise 1.2: Sinusitis and antibiotics
@@ -49,6 +49,7 @@ This is how you dropdown.
 #### R Session
  * How do we use the following packages: `tidyverse`, `ggplot2`?
  * \[`arbuthnot`\]Interpret the trend on the number of new born boys/girls.
+ 
 </details>
 
 ## Chapter 2. Summarizing the data
