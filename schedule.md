@@ -116,7 +116,7 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
 ## Lec 08 - July 18th(Mon)
 
 ### Course Material
-* [Distributions](notes/Lec08.pdf)
+* [Distributions](notes/Lec08.pdf) based on [OpenIntroStat](openintro.org/os)
 
 ### Readings
 * **Highly Recommended** Chapter 4 with emphasis on 
@@ -131,6 +131,7 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
 
 ## Lec 09 - July 19th(Tue)
 
+### Course Material
 [Rsession4](notes/Lec09.pdf)
 
 ### Readings
@@ -152,7 +153,7 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
 
 ## Lec 11 - July 22nd(Fri)
 ### Course Material
-[Introduction to Statistical Inference](notes/Lec11.pdf)
+[Introduction to Statistical Inference](notes/Lec11.pdf) based on [OpenIntroStat](openintro.org/os)
 
 ### Readings
 * **Highly Recommended** Chapter 5 with an emphasis on
@@ -177,7 +178,7 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
 
 ## Lec 13 - July 26th(Tue)
 ### Course Material
-* [Inference on Numerical Data](notes/Lec13.pdf)
+* [Inference on Numerical Data](notes/Lec13.pdf) based on [OpenIntroStat](openintro.org/os)
 
 ### Readings
 * **Highly Recommended** Chapter 7 with an emphasis on
@@ -198,7 +199,7 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
 
 ## Lec 15 - July 29th(Fri)
 ### Course Material
-[Inference on Categorical Data](notes/09.inference-on-cat-data.md)
+[Inference on Categorical Data](notes/09.inference-on-cat-data.md) based on [OpenIntroStat](openintro.org/os)
 
 ### Readings
 * **Highly Recommended** Chapter 6 with an emphasis on 
@@ -218,7 +219,7 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
 
 ## Lec 17 - Aug 2nd(Tue)
 ### Course Material
-[Introduction to Linear Regression](notes/10.linear-regression.md)
+[Introduction to Linear Regression](notes/10.linear-regression.md) based on [OpenIntroStat](openintro.org/os)
 
 ### Readings
 * **Highly Recommended** Chapter 7 with an emphasis on
