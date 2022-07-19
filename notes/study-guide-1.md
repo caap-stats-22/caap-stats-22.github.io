@@ -1,7 +1,7 @@
 # Study Guide for Quiz 1(Jul 21st)
 
 
-Primary resources(desceding order by **importance**)
+Primary resources (desceding order by **importance**)
 
   * **Lecture notes** with emphasis on
       * How do we define each concept?
@@ -10,12 +10,17 @@ Primary resources(desceding order by **importance**)
   * **R Session code** with emphasis on
       * Why are we running this code? What we want to check by running the code?
       * What does specific code mean? Which element is needed for running a sepcific function?
-  * **Textbook** 
+     
+  * **Recommended exercises** in [OS](https://www.openintro.org/book/os/)
+      * Emphasis on how the related concepts can be used in real-life example
+
+  * [Quiz1-sample](notes/Quiz1-sample.pdf)
+      * Thoroughly review lecture notes, R code and practice questions from the textbook prior to working on the sample quiz
 
 
 ## Chapter 1. Introduction to data
 ### [Lecture note](notes/Lec02.pdf)
-### Exercise
+### Exercises
  * (p.11) Exercise 1.2: Sinusitis and antibiotics
  * (p.19) Exercise 1.5: Cheaters, study components
  * (p.20) Exercise 1.8: Sinusitis and antibiotics Part II
@@ -34,7 +39,7 @@ Primary resources(desceding order by **importance**)
  * Special emphasis on the **simulation** for malaria vaccine
  * **Sec 2.3. Case study: malaria vaccine**
 
-### Exercise
+### Exercises
  * (p.56) Exercise 2.2: Associations
  * (p.56) Exercise 2.5: Parameters and statistics
  * (p.57) Exercise 2.10: Mix-and-match
@@ -52,7 +57,7 @@ Primary resources(desceding order by **importance**)
 ## Chapter 3. Proabibility
 
 ### [Lecture note](notes/Lec06.pdf)
-### Exercise
+### Exercises
  * (p.92) Exercise 3.1: Ture or false
  * (p.92) Exercise 3.5: Coin flips
  * (p.93) Exercise 3.9: Disjoint vs. independent
@@ -71,7 +76,7 @@ Primary resources(desceding order by **importance**)
 
 ### [Lecture note](notes/Lec08.pdf)
  * Sec 4.5. Poisson distribution -- to see the examples potentially following poisson distribution
-### Exercise
+### Exercises
  * (p.142) Exercise 4.3: GRE scores, Part I -- use `pnorm` to calculate the probability
  * (p.142) Exercise 4.5: GRE scores, Part II -- use `qnorm` to calculate the percentile
  * (p.148) Exercise 4.11: Is it Bernoulli?
