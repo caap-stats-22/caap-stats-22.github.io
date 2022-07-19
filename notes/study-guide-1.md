@@ -29,8 +29,6 @@ Primary resources (desceding order by **importance**)
 
 ### Resource 
 
-<details>
- 
 #### [Lecture note](notes/Lec02.pdf)
 #### Exercises
  * (p.11) Exercise 1.2: Sinusitis and antibiotics
@@ -46,7 +44,7 @@ Primary resources (desceding order by **importance**)
  * How do we use the following packages: `tidyverse`, `ggplot2`?
  * \[`arbuthnot`\]Interpret the trend on the number of new born boys/girls.
  
-</details>
+
 
 ## Chapter 2. Summarizing the data
 
