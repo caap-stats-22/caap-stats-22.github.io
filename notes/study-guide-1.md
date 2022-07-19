@@ -33,8 +33,8 @@ This is how you dropdown.
 
 <details>
 
-<summary> 
-### Resource 
+### <summary> 
+Resource 
 </summary>
  
 #### [Lecture note](notes/Lec02.pdf)
