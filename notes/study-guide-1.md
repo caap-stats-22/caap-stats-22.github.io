@@ -19,8 +19,14 @@ Primary resources (desceding order by **importance**)
 
 
 ## Chapter 1. Introduction to data
-### [Lecture note](notes/Lec02.pdf)
-### Exercises
+### Learning Objective
+ * Variable Types: Numerical vs. Categorical/ Response vs. Explanatory/ Obervational vs. Experimental
+ * Sampling method: Simple random sampling, Cluster sampling, Stratified sampling
+ * Causation vs. Correlation/Association
+
+### Resource
+#### [Lecture note](notes/Lec02.pdf)
+#### Exercises
  * (p.11) Exercise 1.2: Sinusitis and antibiotics
  * (p.19) Exercise 1.5: Cheaters, study components
  * (p.20) Exercise 1.8: Sinusitis and antibiotics Part II
@@ -30,16 +36,25 @@ Primary resources (desceding order by **importance**)
  * (p.37) Exercise 1.39: Flawed reasoning
  * (p.37) Exercise 1.41: Eat better, feel better
 
-### R Session
+#### R Session
  * How do we use the following packages: `tidyverse`, `ggplot2`?
  * \[`arbuthnot`\]Interpret the trend on the number of new born boys/girls.
 
 ## Chapter 2. Summarizing the data
-### [Lecture note](notes/Lec04.pdf)
+
+### Learning Objective
+ * Numerical Data
+   * Graphical Summary: Histogram, Boxplot, Scatterplot
+   * Numerical Summary: Mean and Variance
+ * Categorical Data: Frequnecy table, Contingency table, Barplot, Mosaic plot
+ * Overview for Hypothesis Testing(Malaria vaccine)
+
+### Resource
+#### [Lecture note](notes/Lec04.pdf)
  * Special emphasis on the **simulation** for malaria vaccine
  * **Sec 2.3. Case study: malaria vaccine**
 
-### Exercises
+#### Exercises
  * (p.56) Exercise 2.2: Associations
  * (p.56) Exercise 2.5: Parameters and statistics
  * (p.57) Exercise 2.10: Mix-and-match
@@ -49,16 +64,25 @@ Primary resources (desceding order by **importance**)
  * (p.77) Exercise 2.31: Oscar winners
  * (p.78) Exercise 2.34: Marathon winners
 
-### [R Session](notes/Lec05.pdf)
+#### [R Session](notes/Lec05.pdf)
  * The important part is 
     * why this particular graph is useful in summarizing the data
     * how to interpret the graph
 
 ## Chapter 3. Proabibility
 
-### [Lecture note](notes/Lec06.pdf)
+### Learning Objective
+ * Definition of Probability: Frequentist vs. Bayesian
+ * Law of Large Numbers
+ * Independent vs. Disjoint vs. Complementary
+ * Product rule for independent Events: P(A \cap B) = P(A) \times P(B)
+ * General addition rule: P(A \cap B) = P(A) + P(B) - P(A \cap B)
+ * Sampling with, without replacement
 
-### Exercises
+### Resource
+#### [Lecture note](notes/Lec06.pdf)
+
+#### Exercises
  * (p.92) Exercise 3.1: Ture or false
  * (p.92) Exercise 3.5: Coin flips
  * (p.93) Exercise 3.9: Disjoint vs. independent
@@ -70,15 +94,28 @@ Primary resources (desceding order by **importance**)
  * (p.129) Exercise 3.40: Health coverage, frequencies
  * (p.130) Exercise 3.44: Scooping Ice cream
  
-### [R Session](notes/Lec07.pdf)
+#### [R Session](notes/Lec07.pdf)
  * Special emphasis on **Law of Large Numbers** simulation
 
 ## Chapter 4. Distributions of Random Variables
 
-### [Lecture note](notes/Lec08.pdf)
+### Learning Objective
+ * Normal Distribution
+    * Parameters: \mu(mean), \sigma(standard deviation)
+    * Calculate the probability using `pnorm`
+    * Calculate the percentile using `qnorm`
+    * Z-score and standard normal distribution
+ * Bernoulli Distribution: Milgram experiment
+ * Binomial Distribution
+    * Parameters: n(the number of trials), p(probability of success)
+    * Normal approximation to binomial distribution
+ * Poisson Distribution
+ 
+### Resource
+#### [Lecture note](notes/Lec08.pdf)
  * Sec 4.5. Poisson distribution -- to see the examples potentially following poisson distribution
 
-### Exercises
+#### Exercises
  * (p.142) Exercise 4.3: GRE scores, Part I -- use `pnorm` to calculate the probability
  * (p.142) Exercise 4.5: GRE scores, Part II -- use `qnorm` to calculate the percentile
  * (p.148) Exercise 4.11: Is it Bernoulli?
@@ -87,6 +124,6 @@ Primary resources (desceding order by **importance**)
  * (p.166) Exercise 4.27: University admissions
  * (p.166) Exercise 4.39: Auto insurance premiums
  
-### [R Session](notes/Lec09.pdf)
+#### [R Session](notes/Lec09.pdf)
  * Emphasis on the usage of `pnorm`
  
