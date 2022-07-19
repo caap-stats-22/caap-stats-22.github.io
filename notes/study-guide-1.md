@@ -1,8 +1,6 @@
 # Study Guide for Quiz 1(Jul 21st)
 
 
-The purpose of quiz is to make sure we are on the same page!
-
 Primary resources(desceding order by **importance**)
 
   * **Lecture notes** with emphasis on
