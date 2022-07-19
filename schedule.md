@@ -125,6 +125,8 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
   * Sec 4.3 Binomial distribution
   * Sec 4.5 Poisson distribution(depending on the progress)
 * **Advanced** [Univariate Distribution Relationship](http://www.math.wm.edu/~leemis/chart/UDR/UDR.html)
+* **Supplementary** [Normal Approximation to Binomial](https://online.stat.psu.edu/stat414/lesson/28/28.1)
+* [Continuity Correction](https://en.wikipedia.org/wiki/Continuity_correction) in Wikipedia
 
 
 ## Lec 09 - July 19th(Tue)
@@ -133,9 +135,9 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
 
 ### Readings
 * [R For Data Science](https://r4ds.had.co.nz/) by Hadley Wickham
+  * Chapter 7. Exploratory Data Analysis
 
 ### Further Practice
-* Exercise 4.1.2 from OS
 * [Lab 4](http://openintrostat.github.io/oilabs-tidy/04_normal_distribution/normal_distribution.html) from [OpenIntroStat](openintro.org/os)
 
 
