@@ -57,6 +57,7 @@ Primary resources (desceding order by **importance**)
 ## Chapter 3. Proabibility
 
 ### [Lecture note](notes/Lec06.pdf)
+
 ### Exercises
  * (p.92) Exercise 3.1: Ture or false
  * (p.92) Exercise 3.5: Coin flips
@@ -76,6 +77,7 @@ Primary resources (desceding order by **importance**)
 
 ### [Lecture note](notes/Lec08.pdf)
  * Sec 4.5. Poisson distribution -- to see the examples potentially following poisson distribution
+
 ### Exercises
  * (p.142) Exercise 4.3: GRE scores, Part I -- use `pnorm` to calculate the probability
  * (p.142) Exercise 4.5: GRE scores, Part II -- use `qnorm` to calculate the percentile
