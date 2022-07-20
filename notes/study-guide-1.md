@@ -81,8 +81,8 @@ Primary resources (desceding order by **importance**)
  * Definition of Probability: Frequentist vs. Bayesian
  * Law of Large Numbers
  * Independent vs. Disjoint vs. Complementary
- * Product rule for independent Events: P(A \cap B) = P(A) \times P(B)
- * General addition rule: P(A \cap B) = P(A) + P(B) - P(A \cap B)
+ * Product rule for independent Events: $P(A \cap B) = P(A) \times P(B)$
+ * General addition rule: $P(A \cap B) = P(A) + P(B) - P(A \cap B)$
  * Sampling with, without replacement
 
 ### Resource
