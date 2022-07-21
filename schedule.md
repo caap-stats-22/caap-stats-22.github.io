@@ -144,7 +144,7 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
 
 ## Lec 10 - July 21st(Thu)
 
-[Introduction to Data Project](notes/Lec10.pdf)
+[Introduction to Data Project](notes/Lec10-intro-to-project.pdf)
 
 ### Quiz 1
 * [Study Guide](notes/study-guide-1.md)
