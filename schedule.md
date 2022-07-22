@@ -144,6 +144,7 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
 
 ## Lec 10 - July 21st(Thu)
 
+### Course Material
 [Introduction to Data Project](notes/Lec10-intro-to-project.pdf)
 
 ### Quiz 1
@@ -152,8 +153,10 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
 * [Quiz 1](notes/Quiz.pdf)
 
 ## Lec 11 - July 22nd(Fri)
+
 ### Course Material
-[Introduction to Statistical Inference](notes/Lec11.pdf) based on [OpenIntroStat](openintro.org/os)
+* [Introduction to Statistical Inference](notes/Lec11.pdf) based on [OpenIntroStat](openintro.org/os)
+* [Quiz Review](notes/Quiz-review.pdf)
 
 ### Readings
 * **Highly Recommended** Chapter 5 with an emphasis on
@@ -166,6 +169,8 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
 * [Central Limit Theorem](https://en.wikipedia.org/wiki/Central_limit_theorem) in Wikipedia
 
 ## Lec 12 - July 25th(Mon)
+
+### Course Material
 [RSession5](notes/Lec12.pdf)
 
 ### Readings
@@ -177,6 +182,7 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
 
 
 ## Lec 13 - July 26th(Tue)
+
 ### Course Material
 * [Inference on Numerical Data](notes/Lec13.pdf) based on [OpenIntroStat](openintro.org/os)
 
@@ -187,7 +193,9 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
   * **Advanced** Sec 7.5 Comparing many means with ANOVA
 
 ## Lec 14 - July 28th(Thu)
-* [Hypothesis Testing]()
+
+### Course Material
+* [RSession6]()
 * [Project Guidance-1](notes/project1.md)
 
 ### Readings
@@ -207,7 +215,7 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
   * Sec 6.2 Difference of two proportions
 
 ## Lec 16 - Aug 1st(Mon)
-* [Hypothesis Testing]()
+* [RSession7]()
 * [Project Guidance-2](notes/project2.md)
 
 ### Readings
@@ -233,7 +241,7 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
 
 
 ## Lec 18 - Aug 4th(Thu)
-* [Modeling and Linear Regression]()
+* [RSession8]()
 * [Project Guidance-3](notes/project3.md)
 
 ### Readings
