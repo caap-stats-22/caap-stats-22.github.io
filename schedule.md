@@ -155,23 +155,36 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
 ## Lec 11 - July 22nd(Fri)
 
 ### Course Material
-* [Introduction to Statistical Inference](notes/Lec11.pdf) based on [OpenIntroStat](openintro.org/os)
+
 * [Quiz Review](notes/Quiz-review.pdf)
+* [Introduction to Statistical Inference-Part I](notes/Lec11.pdf) based on [OpenIntroStat](openintro.org/os)
 
 ### Readings
 * **Highly Recommended** Chapter 5 with an emphasis on
   * Sec 5.1.1 Point estimates and error
   * Sec 5.1.2 Understanding the variability of a point estimate
+* [Central Limit Theorem](https://en.wikipedia.org/wiki/Central_limit_theorem) in Wikipedia
+
+## Lec 12 - July 25th(Mon)
+
+### Course Material
+
+* [Introduction to Statistical Inference-Part II](notes/Lec12.pdf) based on [OpenIntroStat](openintro.org/os)
+
+
+### Readings
+* **Highly Recommended** Chapter 5 with an emphasis on
   * Sec 5.2.5 Interpreteing confidence intervals
   * Sec 5.3.1 Hypothesis testing framework
   * Sec 5.3.3 Decision errors
   * Sec 5.3.7 One-sided hypothesis tests
 * [Central Limit Theorem](https://en.wikipedia.org/wiki/Central_limit_theorem) in Wikipedia
 
-## Lec 12 - July 25th(Mon)
+
+## Lec 13 - July 26th(Tue)
 
 ### Course Material
-[RSession5](notes/Lec12.pdf)
+[RSession5](notes/Lec13.pdf)
 
 ### Readings
 * [R For Data Science](https://r4ds.had.co.nz/) by Hadley Wickham
@@ -181,10 +194,10 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
 * [Lab5-Confidence Interval](https://openintro.shinyapps.io/confidence_intervals/) from [OpenIntroStat](openintro.org/os)
 
 
-## Lec 13 - July 26th(Tue)
+## Lec 14 - July 28th(Thu)
 
 ### Course Material
-* [Inference on Numerical Data](notes/Lec13.pdf) based on [OpenIntroStat](openintro.org/os)
+* [Inference on Numerical Data](notes/Lec14.pdf) based on [OpenIntroStat](openintro.org/os)
 
 ### Readings
 * **Highly Recommended** Chapter 7 with an emphasis on
@@ -192,10 +205,10 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
   * Sec 7.3 Difference of two means
   * **Advanced** Sec 7.5 Comparing many means with ANOVA
 
-## Lec 14 - July 28th(Thu)
+## Lec 15 - July 29th(Fri)
 
 ### Course Material
-* [RSession6]()
+* [RSession6](notes/Lec15.pdf)
 * [Project Guidance-1](notes/project1.md)
 
 ### Readings
@@ -205,17 +218,17 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
 * [Lab7](http://openintrostat.github.io/oilabs-tidy/07_inf_for_numerical_data/inf_for_numerical_data.html) from [OpenIntroStat](openintro.org/os)
 
 
-## Lec 15 - July 29th(Fri)
+## Lec 16 - Aug 1st(Mon)
 ### Course Material
-[Inference on Categorical Data](notes/09.inference-on-cat-data.md) based on [OpenIntroStat](openintro.org/os)
+[Inference on Categorical Data](notes/Lec16.pdf) based on [OpenIntroStat](openintro.org/os)
 
 ### Readings
 * **Highly Recommended** Chapter 6 with an emphasis on 
   * Sec 6.1 Inference for a single proportion
   * Sec 6.2 Difference of two proportions
 
-## Lec 16 - Aug 1st(Mon)
-* [RSession7]()
+## Lec 17 - Aug 2nd(Tue)
+* [RSession7](notes/Lec17.pdf)
 * [Project Guidance-2](notes/project2.md)
 
 ### Readings
@@ -225,9 +238,9 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
 * [Lab6](https://openintro.shinyapps.io/inf_for_categorical_data/) from [OpenIntroStat](openintro.org/os)
 
 
-## Lec 17 - Aug 2nd(Tue)
+## Lec 18 - Aug 4th(Tue)
 ### Course Material
-[Introduction to Linear Regression](notes/10.linear-regression.md) based on [OpenIntroStat](openintro.org/os)
+[Introduction to Linear Regression](notes/Lec18.pdf) based on [OpenIntroStat](openintro.org/os)
 
 ### Readings
 * **Highly Recommended** Chapter 7 with an emphasis on
@@ -240,8 +253,8 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
 * **Supplementary**
 
 
-## Lec 18 - Aug 4th(Thu)
-* [RSession8]()
+## Lec 19 - Aug 5th(Fri)
+* [RSession8](notes/Lec19.pdf)
 * [Project Guidance-3](notes/project3.md)
 
 ### Readings
@@ -253,16 +266,14 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
 ### Further Practice
 * [Lab8](http://openintrostat.github.io/oilabs-tidy/08_simple_regression/simple_regression.html) from [OpenIntroStat](openintro.org/os)
 
-## Lec 19 - Aug 5th(Fri)
+## Lec 20 - Aug 8th(Mon)
 ### Course Material
-* [Linear Reression]()
+* [Linear Reression](notes/Lec20.pdf)
 * [Project Guidance-4](notes/project4.md)
 
-## Lec 20 - Aug 8th(Mon)
+## Lec 21 - Aug 9th(Tue)
 
 **Presentation Day**
-
-## Review - Aug 9th(Tue)
 * [Review](notes/review-for-all.md)
 * [Practice exam]()
 
