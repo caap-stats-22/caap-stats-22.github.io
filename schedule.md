@@ -233,7 +233,7 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
 
 ## Lec 17 - Aug 2nd(Tue)
 * [RSession7](notes/Lec17.pdf)
-* [Project Guidance-2](notes/project2.md)
+* [Project Guidance 3: Conduct Hypothesis Testing](notes/project-3.pdf)
 
 ### Readings
 * [R For Data Science](https://r4ds.had.co.nz/) by Hadley Wickham
@@ -259,7 +259,7 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
 
 ## Lec 19 - Aug 5th(Fri)
 * [RSession8](notes/Lec19.pdf)
-* [Project Guidance-3](notes/project3.md)
+* [Project Guidance 4: Association/Correlation/Dependency](notes/project-4.pdf)
 
 ### Readings
 * **Highly Recommended** [Interpret `lm` output from R](https://feliperego.github.io/blog/2015/10/23/Interpreting-Model-Output-In-R) by Filipe Rego
@@ -272,16 +272,20 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
 
 ## Lec 20 - Aug 8th(Mon)
 ### Course Material
-* [Linear Reression](notes/Lec20.pdf)
-* [Project Guidance-4](notes/project4.md)
+* [Review](notes/review-for-all.md)
+* [Project Guidance 5: Visualization and Presentation](notes/project-5.md)
 
 ## Lec 21 - Aug 9th(Tue)
 
 **Presentation Day**
-* [Review](notes/review-for-all.md)
-* [Practice exam]()
+
 
 ## Finals Period
 
 2022 CAAP Final Period is 8/10 - 8/11
 The final quiz will be on Aug 11th(Thu).
+
+
+* [Practice exam]()
+* [Quiz 2]()
+
