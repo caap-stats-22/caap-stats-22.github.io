@@ -136,6 +136,12 @@ Primary resources (desceding order by **importance**)
 
 ## Chapter 5. Introduction to Inference
 ### Learning Objective
+ * Point estimate and sampling variability
+   * Understand the sampling variability
+   * Central Limit Theorem
+ * Confidence interval
+   * Interpretation of confidence interval 
+ * Hypothesis testing for a proportion 
 
 ### Resource
 #### [Lecture note-Part I](notes/Lec11.pdf)
