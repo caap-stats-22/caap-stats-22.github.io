@@ -138,11 +138,20 @@ Primary resources (desceding order by **importance**)
 ### Learning Objective
 
 ### Resource
-#### [Lecture note](notes/Lec11.pdf)
+#### [Lecture note-Part I](notes/Lec11.pdf)
+#### [Lecture note-Part II](notes/Lec12.pdf)
 
 #### Exercises
+ * (p.179) Exercise 5.3: Quality control
+ * (p.188) Exercise 5.12: Mental Health
+ * (p.202) Exercise 5.15: Identify hypotheses, Part I
+ * (p.202) Exerecise 5.16: Identify hypotheses, Part II
+ * (p.202) Exercise 5.19: Cyberbullying rates
+ * (p.203) Exercise 5.25: Testigng for Fibromyalgia
+ * (p.204) Exercise 5.29: Testing for food safety 
 
-#### [R Session](notes/Lec12.pdf)
+#### [R Session](notes/Lec13.pdf)
+ * Emphasis on the calculation of p-value
  
  ## Chapter 6. Inference for Categorical Data
 ### Learning Objective
