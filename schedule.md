@@ -178,16 +178,17 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
   * Sec 5.3.1 Hypothesis testing framework
   * Sec 5.3.3 Decision errors
   * Sec 5.3.7 One-sided hypothesis tests
-* [Central Limit Theorem](https://en.wikipedia.org/wiki/Central_limit_theorem) in Wikipedia
 
 
 ## Lec 13 - July 26th(Tue)
 
 ### Course Material
-[RSession5](notes/Lec13.pdf)
+* [RSession5](notes/Lec13.pdf)
+* [Project Guidance 1: Data Selection](notes/project-1.pdf)
 
 ### Readings
 * [R For Data Science](https://r4ds.had.co.nz/) by Hadley Wickham
+    * Chapter 8. Workflow: projects
 
 ### Further Practice
 * [Lab5-Introduction to Inference](https://openintro.shinyapps.io/sampling_distributions/) from [OpenIntroStat](openintro.org/os)
@@ -209,10 +210,11 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
 
 ### Course Material
 * [RSession6](notes/Lec15.pdf)
-* [Project Guidance-1](notes/project1.md)
+* [Project Guidance 2: Exploratory Data Anlaysis](notes/project-2.pdf)
 
 ### Readings
 * [R For Data Science](https://r4ds.had.co.nz/) by Hadley Wickham
+   * Chapter 22. Introduction(Modeling) 
 
 ### Further Practice
 * [Lab7](http://openintrostat.github.io/oilabs-tidy/07_inf_for_numerical_data/inf_for_numerical_data.html) from [OpenIntroStat](openintro.org/os)
@@ -226,6 +228,8 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
 * **Highly Recommended** Chapter 6 with an emphasis on 
   * Sec 6.1 Inference for a single proportion
   * Sec 6.2 Difference of two proportions
+  * **Advanced** Sec 6.3 Testing for goodness of fit using chi-square
+  * **Advanced** Sec 6.4 Testing for independence in two-way tables
 
 ## Lec 17 - Aug 2nd(Tue)
 * [RSession7](notes/Lec17.pdf)
