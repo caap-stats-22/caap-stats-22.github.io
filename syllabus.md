@@ -1,5 +1,7 @@
 # Syllabus
 
+* Detailed course material is maintained [here](schedule.md)
+
 ## People
 Instructor:  **Sowon Jeong**. Graduate Student from the Department of Statistics.
 
@@ -32,6 +34,11 @@ There is no assignment for this course -- I know the program has tight schedule,
 There would be supplementary [reading materials](schedule.md) that you can read by yourself. I recommend you to read it before coming to the lecture. Reading materials would provide a wide range of examples which allow you to better understand the lecture.
 
 There will be 2 quizzes on July 21st, Aug 11th. As this course is *not* toward the official credit, the quizzes are designed to help you better understand the course material, but not to discourage you. 
+
+## Project
+
+There will be one final data anlaysis project. You will go through all the basic steps for data anlaysis and able to see how the concepts from the lecture can be applied to the actual data. This project is designed to give you an insight you can gain from the data through the eyes of statistics. 
+
 
 ## Participation
 
@@ -78,3 +85,5 @@ procedures for requesting accommodations.
 
 Phone: (773) 702-6000<br />
 Email: ​disabilities@uchicago.edu
+
+Go back to [main](index.md) page.
