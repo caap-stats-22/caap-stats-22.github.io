@@ -289,4 +289,4 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
 2022 CAAP Final Period is 8/10 - 8/11
 The final quiz will be on Aug 11th(Thu).
 
-
+Go back to [main](index.md) page.
