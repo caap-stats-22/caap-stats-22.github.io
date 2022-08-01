@@ -1,5 +1,6 @@
 # Study Guide for Final Quiz (Aug 11th)
 
+The Quiz 2 will cover Chpater **1-8**, Lecture note **1-18**, with an emphasis on Chpater 1-4, Lecture note 11-18
 *Note*: One page(one-sided) cheat sheet will be allowed for Quiz 2. You can write down the formula such as sampling standard deviation.
 
 Primary resources (desceding order by **importance**)
