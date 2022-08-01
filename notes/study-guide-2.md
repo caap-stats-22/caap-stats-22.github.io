@@ -1,5 +1,6 @@
 # Study Guide for Final Quiz (Aug 11th)
 
+*Note*: One page(one-sided) cheat sheet will be allowed for Quiz 2. You can write down the formula such as sampling standard deviation.
 
 Primary resources (desceding order by **importance**)
 
@@ -14,7 +15,7 @@ Primary resources (desceding order by **importance**)
   * **Recommended exercises** in [OS](https://www.openintro.org/book/os/)
       * Emphasis on how the related concepts can be used in real-life example
 
-  * [**Sample quiz**](notes/Quiz1-sample.pdf)
+  * [**Sample quiz**](notes/Quiz2-sample.pdf)
       * Thoroughly review lecture notes, R code and practice questions from the textbook prior to working on the sample quiz
       
 
@@ -23,9 +24,6 @@ Primary resources (desceding order by **importance**)
  * Variable Types: Numerical vs. Categorical/ Response vs. Explanatory/ Obervational vs. Experimental
  * Sampling method: Simple random sampling, Cluster sampling, Stratified sampling
  * Causation vs. Correlation/Association
-
-
-
 
 ### Resource 
 
@@ -132,6 +130,7 @@ Primary resources (desceding order by **importance**)
  
 #### [R Session](notes/Lec09.pdf)
  * Emphasis on the usage of `pnorm`
+ * Distinguish when to use `pnorm` and `qnorm`
 
 
 ## Chapter 5. Introduction to Inference
@@ -161,33 +160,70 @@ Primary resources (desceding order by **importance**)
  
  ## Chapter 6. Inference for Categorical Data
 ### Learning Objective
+ * Inference for a single proportion
+ * Difference of two proportions
 
 ### Resource
-#### [Lecture note](notes/Lec11.pdf)
+#### [Lecture note](notes/Lec16.pdf)
 
 #### Exercises
+ * (p.215) Exercise 6.9: Study abroad
+ * (p.216) Exercise 6.10: Legalization of marijuana, Part I
+ * (p.225) Exercise 6.18: Heart transplant success
+ * (p.228) Exercise 6.28: Prenatal vitamins and Autism
+ * (p.247) Exercise 6.45: Life after college
 
-#### [R Session](notes/Lec12.pdf)
- 
+#### [R Session](notes/Lec16.pdf)
+ * Interpret the result from `t.test` 
  
  ## Chapter 7. Inference for Numerical Data
 ### Learning Objective
+ * **Test for Mean** Determine when to use normal distribusion/t-distribution?
+   * Large sample: normal distribution 
+   * Population distribution is normal: normal distribution
+   * Neither case: t-distribution
+ * One-sample mean with t-distribution
+ * Paired data vs. Difference in two means 
 
 ### Resource
-#### [Lecture note](notes/Lec11.pdf)
+#### [Lecture note](notes/Lec14.pdf)
+
 
 #### Exercises
+ * (p.259) Exercise 7.2: t-distribusion
+ * (p.260) Exercise 7.7: Sleep habits of New Yorkers
+ * (p.260) Exercise 7.11: Play the piano
+ * (p.265) Exerecise 7.18: Paired or not, Part II
+ * (p.265) Exerecise 7.19: Global Warming, Part I
+ * (p.274) Exercise 7.24: Diamonds, Part I
+ * (p.300) Exercise 7.51: Hen eggs
+ * (p.302) Exercise 7.57: Online communication
 
-#### [R Session](notes/Lec12.pdf)
- 
+#### [R Session](notes/Lec15.pdf)
+ * Usage of `pt` and `qt`
+ * Interpret the result from `t.test`
  
  ## Chapter 8. Introduction to Linear Regression
 ### Learning Objective
+ * Fitting a line, residuals, and correlation
+ * Least square regression
+ * Types of outliers 
+ * Inference for linear regression
 
 ### Resource
-#### [Lecture note](notes/Lec11.pdf)
+#### [Lecture note](notes/Lec17.pdf)
 
 #### Exercises
+ * (p.312) Exercise 8.2: Trends in residuals
+ * (p.314) Exercise 8.7: Match the correlation, Part I
+ * (p.316) Exercise 8.13: Body measurements, Part I
+ * (p.325) Exercise 8.21: Tourism spending
+ * (p.327) Exercise 8.25: Murders and poverty, Part I
+ * (p.330) Exercise 8.27: Outliers, Part I
+ * (p.335) Exercise 8.32: Beer and blood alcohol content
+ * (p.338) Exercise 8.37: True/False
+ * (p.338) Exercise 8.39: Husbands and wives, Part III
 
-#### [R Session](notes/Lec12.pdf)
+#### [R Session](notes/Lec18.pdf)
+ * Interpret the result from `lm`
  
