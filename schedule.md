@@ -223,6 +223,8 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
 ## Lec 16 - Aug 1st(Mon)
 ### Course Material
 [Inference on Categorical Data](notes/Lec16.pdf) based on [OpenIntroStat](openintro.org/os)
+  * Note: **R Session7** is combined to the lecture. 
+
 
 ### Readings
 * **Highly Recommended** Chapter 6 with an emphasis on 
@@ -231,18 +233,11 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
   * **Advanced** Sec 6.3 Testing for goodness of fit using chi-square
   * **Advanced** Sec 6.4 Testing for independence in two-way tables
 
-## Lec 17 - Aug 2nd(Tue)
-* [RSession7](notes/Lec17.pdf)
-* [Project Guidance 3: Conduct Hypothesis Testing](notes/project-3.pdf)
-
-### Readings
-* [R For Data Science](https://r4ds.had.co.nz/) by Hadley Wickham
-
 ### Further Practice
 * [Lab6](https://openintro.shinyapps.io/inf_for_categorical_data/) from [OpenIntroStat](openintro.org/os)
 
 
-## Lec 18 - Aug 4th(Tue)
+## Lec 17 - Aug 2nd(Tue)
 ### Course Material
 [Introduction to Linear Regression](notes/Lec18.pdf) based on [OpenIntroStat](openintro.org/os)
 
@@ -256,10 +251,11 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
 * **Advanced** [Ordinary Least Squares](https://en.wikipedia.org/wiki/Ordinary_least_squares) in Wikipedia
 * **Supplementary**
 
+## Lec 18 - Aug 4th(Thu)
 
-## Lec 19 - Aug 5th(Fri)
+### Course Material
 * [RSession8](notes/Lec19.pdf)
-* [Project Guidance 4: Association/Correlation/Dependency](notes/project-4.pdf)
+* [Project Guidance 3: Conduct Hypothesis Testing](notes/project-3.pdf)
 
 ### Readings
 * **Highly Recommended** [Interpret `lm` output from R](https://feliperego.github.io/blog/2015/10/23/Interpreting-Model-Output-In-R) by Filipe Rego
@@ -270,14 +266,22 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
 ### Further Practice
 * [Lab8](http://openintrostat.github.io/oilabs-tidy/08_simple_regression/simple_regression.html) from [OpenIntroStat](openintro.org/os)
 
+
+## Lec 19 - Aug 5th(Fri)
+* [Project Guidance 4: Line Fitting and Visualization](notes/project-4.pdf)
+* **Deadline** for submission: Aug 7th 23:59 PM
+
 ## Lec 20 - Aug 8th(Mon)
-### Course Material
-* [Review](notes/review-for-all.md)
-* [Project Guidance 5: Visualization and Presentation](notes/project-5.md)
+
+**Presentation Day**
 
 ## Lec 21 - Aug 9th(Tue)
 
-**Presentation Day**
+### Course Material
+* [Review](notes/review-for-all.md)
+* [Study Guide](notes/study-guide-2.md)
+* [Practice exam]()
+* [Quiz 2]()
 
 
 ## Finals Period
@@ -285,7 +289,4 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
 2022 CAAP Final Period is 8/10 - 8/11
 The final quiz will be on Aug 11th(Thu).
 
-
-* [Practice exam]()
-* [Quiz 2]()
 
