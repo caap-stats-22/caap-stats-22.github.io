@@ -269,7 +269,7 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
 
 ## Lec 19 - Aug 5th(Fri)
 * [Project Guidance 4: Line Fitting and Visualization](notes/project-4.pdf)
-* **Deadline** for submission: Aug 7th 23:59 PM
+* **Deadline for submission: Aug 7th 23:59 PM**
 
 ## Lec 20 - Aug 8th(Mon)
 
