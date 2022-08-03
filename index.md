@@ -9,7 +9,7 @@ This course aims to introduce students to statistical methods and data analysis 
 *	Does this medicine effectively prevent a cold?
 * Does this commercial bring more customers to the store?
 
-And will be able to answer them through hypothesis testing framework. The course will not only focus on the theory but also help you deal with the real-world data using statistical programming, R.
+and will be able to answer them through hypothesis testing framework. The course will not only focus on the theory but also help you deal with the real-world data using statistical programming, R.
 
 ### Prerequisites
 This course has no prerequisite—any exposure to calculus would be a plus but is not required. However, if needed, the related concepts will be covered in the lecture.
