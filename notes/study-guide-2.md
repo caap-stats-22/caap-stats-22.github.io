@@ -160,7 +160,8 @@ Primary resources (desceding order by **importance**)
 #### [R Session](notes/Lec13.pdf)
  * Emphasis on the calculation of p-value
  
- ## Chapter 6. Inference for Categorical Data
+ 
+## Chapter 6. Inference for Categorical Data
 ### Learning Objective
  * Inference for a single proportion
  * Difference of two proportions
