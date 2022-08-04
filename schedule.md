@@ -280,8 +280,8 @@ Related chapter or sections in the [textbook](openintro.org/os) will be posted a
 ### Course Material
 * [Review](notes/review-for-all.md)
 * [Study Guide](notes/study-guide-2.md)
-* [Practice exam]()
-* [Quiz 2]()
+* [Practice exam](notes/Quiz2-sample.pdf)
+* [Quiz 2](notes/Quiz2.pdf)
 
 
 ## Finals Period
