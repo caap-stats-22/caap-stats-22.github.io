@@ -179,7 +179,7 @@ Primary resources (desceding order by **importance**)
 #### [R Session](notes/Lec16.pdf)
  * Interpret the result from `t.test` 
  
- ## Chapter 7. Inference for Numerical Data
+## Chapter 7. Inference for Numerical Data
 ### Learning Objective
  * **Test for Mean** Determine when to use normal distribusion/t-distribution?
    * Large sample: normal distribution 
@@ -206,7 +206,7 @@ Primary resources (desceding order by **importance**)
  * Usage of `pt` and `qt`
  * Interpret the result from `t.test`
  
- ## Chapter 8. Introduction to Linear Regression
+## Chapter 8. Introduction to Linear Regression
 ### Learning Objective
  * Fitting a line, residuals, and correlation
  * Least square regression
