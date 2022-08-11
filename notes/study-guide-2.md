@@ -181,7 +181,7 @@ Primary resources (desceding order by **importance**)
  
 ## Chapter 7. Inference for Numerical Data
 ### Learning Objective
- * **Test for Mean** Determine when to use normal distribusion/t-distribution?
+ * **Test for Mean** Determine when to use normal distribution/t-distribution?
    * Large sample: normal distribution 
    * Population distribution is normal: normal distribution
    * Neither case: t-distribution
