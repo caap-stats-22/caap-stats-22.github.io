@@ -1,8 +1,9 @@
 # theme: jekyll-theme-minima
 
-title: CAAP Statistics 2022
+title: CAAP Statistics
 logo: /assets/mixture-logo.png
 description: This page is designed to maintain course materials for 2022 Statistics Summer Session. 
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
+github: 
